@@ -70,6 +70,19 @@ function buildNameTypeMap() {
     addAll(addition.five_star, "weapon");
     addAll(addition.four_star, "weapon");
   }
+  // Chronicled banners mix characters and weapons in one pool with no per-unit type tag, and
+  // many chronicled 5-stars are limited units never added to the standard banner. But every
+  // character/weapon has appeared on its own dedicated character/weapon banner at some point,
+  // so scanning those gives a complete roster to classify chronicled units against.
+  for (const bannerEntry of banners) {
+    if (bannerEntry.banner_type === "character") {
+      addAll(bannerEntry.five_star.map((u) => u.name), "character");
+      addAll(bannerEntry.four_star.map((u) => u.name), "character");
+    } else if (bannerEntry.banner_type === "weapon") {
+      addAll(bannerEntry.five_star.map((u) => u.name), "weapon");
+      addAll(bannerEntry.four_star.map((u) => u.name), "weapon");
+    }
+  }
   return map;
 }
 
@@ -83,7 +96,7 @@ function classifyItemType(trackKind, result) {
   // rarity === 5
   if (trackKind === "character") return "character";
   if (trackKind === "weapon") return "weapon";
-  if (trackKind === "chronicled") return "character"; // chronicled 5-stars are always characters
+  if (trackKind === "chronicled") return nameTypeMap[result.name] ?? "character"; // chronicled 5-stars mix characters and weapons
   // standard track 5-star: always present in nameTypeMap since it's drawn from the standard pool
   return nameTypeMap[result.name] ?? "character";
 }
@@ -241,7 +254,9 @@ function resolveCharacterPull(entry) {
       } else {
         win = Math.random() < 0.5;
         statCategory = win ? "won" : "lost";
-        pity.crCounter = win ? 0 : counter + 1;
+        // Capturing Radiance doesn't exist before 5.0, so the streak only starts accumulating
+        // once it's live -- pre-5.0 losses never should, and never do, feed into it.
+        if (postCR) pity.crCounter = win ? 0 : counter + 1;
       }
       if (!win) pity.guaranteed = true;
     }
@@ -309,13 +324,19 @@ function resolveChronicledPull(entry) {
   const pity = state.pity.chronicled;
   const { rarity, pullsAtHit } = rollRarity(pity, STANDARD_CURVE, 0.051);
   if (rarity === 5) {
-    const threshold = fatePointThreshold();
+    const threshold = CHRONICLED_FATE_THRESHOLD;
     const target = state.chosenTarget.chronicled ?? entry.five_star[0].name;
     if (pity.fatePoint >= threshold) {
       pity.fatePoint = 0;
       return { name: target, rarity: 5, pityAtPull: pullsAtHit };
     }
-    const others = entry.five_star.filter((u) => u.name !== target);
+    // Losing your 50/50 can only give you another unit of the SAME type as your chosen
+    // target (character stays within the chronicled banner's characters, weapon stays within
+    // its weapons) -- it never crosses over to the other type.
+    const targetType = nameTypeMap[target] ?? "character";
+    const others = entry.five_star.filter(
+      (u) => u.name !== target && (nameTypeMap[u.name] ?? "character") === targetType
+    );
     if (Math.random() < 0.5 || others.length === 0) {
       pity.fatePoint = 0;
       return { name: target, rarity: 5, pityAtPull: pullsAtHit };
@@ -358,6 +379,10 @@ function isEpitomizedPathActive() {
 function fatePointThreshold() {
   return luna5Index !== -1 && state.patchIndex >= luna5Index ? 1 : 2;
 }
+
+// Chronicled Wish's Fate Point has always been 1, unlike Epitomized Path (weapon banner),
+// which required 2 before 5.0 and dropped to 1 only from 5.0 onward.
+const CHRONICLED_FATE_THRESHOLD = 1;
 
 function ensureBannerContext(trackKind, entry) {
   const key = bannerKey(entry);
@@ -433,10 +458,17 @@ function unitPills(units) {
 
 function pityBadge(trackKind, pity, hasFatePointConcept, threshold) {
   if (trackKind === "character") {
+    const postCR = luna5Index !== -1 && state.patchIndex >= luna5Index;
     const parts = [];
     if (pity.guaranteed) parts.push("Guaranteed");
-    if (pity.crCounter > 0) parts.push(`CR streak ${pity.crCounter}`);
+    // Capturing Radiance doesn't exist before 5.0, so the streak counter -- which keeps ticking
+    // in the background regardless of era -- must stay hidden until it's actually active.
+    if (postCR && pity.crCounter > 0) parts.push(`CR streak ${pity.crCounter}`);
     return parts.length ? `<span class="badge">${parts.join(" · ")}</span>` : "";
+  }
+  if (trackKind === "chronicled") {
+    const hit = pity.fatePoint >= threshold;
+    return `<span class="${hit ? "badge" : "badge-muted"}">Fate Point: ${pity.fatePoint}/${threshold}</span>`;
   }
   if (hasFatePointConcept) {
     if (pity.fatePoint >= threshold) return `<span class="badge">Guaranteed</span>`;
@@ -469,7 +501,7 @@ function bannerCard(title, entry, trackKind) {
 
   const weaponEpitomized = trackKind === "weapon" && isEpitomizedPathActive();
   const hasFatePointConcept = trackKind === "chronicled" || weaponEpitomized;
-  const threshold = hasFatePointConcept ? fatePointThreshold() : null;
+  const threshold = trackKind === "chronicled" ? CHRONICLED_FATE_THRESHOLD : hasFatePointConcept ? fatePointThreshold() : null;
 
   const targetSelect =
     hasFatePointConcept && entry.five_star.length > 1 ? targetSelectHtml(cardId, trackKind, entry) : "";
