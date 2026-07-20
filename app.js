@@ -14,7 +14,7 @@ const state = {
   standardWishes: 0,
   pity: {
     character: { pity5: 0, pity4: 0, crCounter: 0, guaranteed: false },
-    weapon: { pity5: 0, pity4: 0, fatePoint: 0 },
+    weapon: { pity5: 0, pity4: 0, fatePoint: 0, guaranteed: false },
     chronicled: { pity5: 0, pity4: 0, fatePoint: 0 },
     standard: { pity5: 0, pity4: 0 },
   },
@@ -27,6 +27,7 @@ const state = {
   stats: {
     character5050: { won: 0, lost: 0, capturingRadiance: 0 },
     weaponFate: { 0: 0, 1: 0, 2: 0 },
+    chronicledFate: { 0: 0, 1: 0 },
   },
   confirmNextPatch: false,
   spendingTier: "f2p",
@@ -275,6 +276,15 @@ function resolveCharacterPull(entry) {
 
 function resolveWeaponPullPlain(entry) {
   // Pre-2.0: no Epitomized Path yet — plain split among featured weapons, no target/fate point.
+  // But the classic guarantee still applies: a standard weapon is always followed by a rate-up.
+  const pity = state.pity.weapon;
+  if (pity.guaranteed) {
+    pity.guaranteed = false;
+    if (entry.five_star.length > 1 && Math.random() < 0.5) {
+      return { name: entry.five_star[1].name, rarity: 5 };
+    }
+    return { name: entry.five_star[0].name, rarity: 5 };
+  }
   const roll = Math.random();
   const chosenThreshold = entry.five_star.length > 1 ? 0.375 : 0.75;
   if (roll < chosenThreshold) {
@@ -283,6 +293,7 @@ function resolveWeaponPullPlain(entry) {
   if (entry.five_star.length > 1 && roll < 0.75) {
     return { name: entry.five_star[1].name, rarity: 5 };
   }
+  pity.guaranteed = true;
   const pool = computeStandardPool("weapon").five_star;
   return { name: pickRandom(pool), rarity: 5 };
 }
@@ -295,16 +306,37 @@ function resolveWeaponPull(entry) {
       return { ...resolveWeaponPullPlain(entry), pityAtPull: pullsAtHit };
     }
     const threshold = fatePointThreshold();
-    state.stats.weaponFate[pity.fatePoint] += 1;
     const target = state.chosenTarget.weapon ?? entry.five_star[0].name;
+    const others = entry.five_star.filter((w) => w.name !== target);
+
     if (pity.fatePoint >= threshold) {
+      // Only tally the fate-point count when you actually obtain the target -- not on every
+      // 5-star pull regardless of outcome.
+      state.stats.weaponFate[pity.fatePoint] += 1;
       pity.fatePoint = 0;
+      pity.guaranteed = false;
       return { name: target, rarity: 5, pityAtPull: pullsAtHit };
     }
-    const others = entry.five_star.filter((w) => w.name !== target);
+
+    if (pity.guaranteed) {
+      // Getting a standard (off-banner) 5-star weapon always guarantees the next 5-star is one
+      // of the two rate-up weapons -- same classic guarantee as the character banner, just
+      // layered underneath the Fate Point system instead of replacing it.
+      pity.guaranteed = false;
+      if (others.length === 0 || Math.random() < 0.5) {
+        state.stats.weaponFate[pity.fatePoint] += 1;
+        pity.fatePoint = 0;
+        return { name: target, rarity: 5, pityAtPull: pullsAtHit };
+      }
+      pity.fatePoint = Math.min(pity.fatePoint + 1, threshold);
+      const picked = pickRandom(others);
+      return { name: picked.name, rarity: 5, pityAtPull: pullsAtHit };
+    }
+
     const roll = Math.random();
     const chosenThreshold = others.length ? 0.375 : 0.75;
     if (roll < chosenThreshold) {
+      state.stats.weaponFate[pity.fatePoint] += 1;
       pity.fatePoint = 0;
       return { name: target, rarity: 5, pityAtPull: pullsAtHit };
     }
@@ -313,6 +345,7 @@ function resolveWeaponPull(entry) {
       const picked = pickRandom(others);
       return { name: picked.name, rarity: 5, pityAtPull: pullsAtHit };
     }
+    pity.guaranteed = true;
     pity.fatePoint = Math.min(pity.fatePoint + 1, threshold);
     const pool = computeStandardPool("weapon").five_star;
     return { name: pickRandom(pool), rarity: 5, pityAtPull: pullsAtHit };
@@ -327,6 +360,9 @@ function resolveChronicledPull(entry) {
     const threshold = CHRONICLED_FATE_THRESHOLD;
     const target = state.chosenTarget.chronicled ?? entry.five_star[0].name;
     if (pity.fatePoint >= threshold) {
+      // Only tally the fate-point count when you actually obtain the target -- not on every
+      // 5-star pull regardless of outcome.
+      state.stats.chronicledFate[pity.fatePoint] += 1;
       pity.fatePoint = 0;
       return { name: target, rarity: 5, pityAtPull: pullsAtHit };
     }
@@ -338,6 +374,7 @@ function resolveChronicledPull(entry) {
       (u) => u.name !== target && (nameTypeMap[u.name] ?? "character") === targetType
     );
     if (Math.random() < 0.5 || others.length === 0) {
+      state.stats.chronicledFate[pity.fatePoint] += 1;
       pity.fatePoint = 0;
       return { name: target, rarity: 5, pityAtPull: pullsAtHit };
     }
@@ -472,7 +509,7 @@ function pityBadge(trackKind, pity, hasFatePointConcept, threshold) {
   }
   if (hasFatePointConcept) {
     if (pity.fatePoint >= threshold) return `<span class="badge">Guaranteed</span>`;
-    if (threshold > 1) return `<span class="badge-muted">Fate: ${pity.fatePoint}/${threshold}</span>`;
+    return `<span class="badge-muted">Fate: ${pity.fatePoint}/${threshold}</span>`;
   }
   return "";
 }
@@ -593,6 +630,23 @@ function renderHistoryPanel() {
     .join("");
 }
 
+// 4-star pity is deliberately not averaged: the off-banner 4-star pool mixes characters and
+// weapons regardless of which limited banner you pulled on, so a "character" or "weapon" bucket
+// for it would be ambiguous. Chronicled pulls are kept entirely out of these two -- they only
+// ever feed their own dedicated average in the Chronicled Wish section below.
+function averageOf(values) {
+  if (values.length === 0) return null;
+  return values.reduce((a, b) => a + b, 0) / values.length;
+}
+
+function avgPity5RowHtml(trackKind) {
+  const values = state.history[trackKind]
+    .filter((h) => h.rarity === 5 && h.pityAtPull != null)
+    .map((h) => h.pityAtPull);
+  const fmt = (v) => (v === null ? "—" : v.toFixed(2));
+  return `<div class="stats-row"><span>Average 5★ Pity</span><strong>${fmt(averageOf(values))}</strong></div>`;
+}
+
 function renderStats() {
   const c = state.stats.character5050;
   document.getElementById("stats-character-5050").innerHTML = `
@@ -600,12 +654,24 @@ function renderStats() {
     <div class="stats-row"><span>Lost</span><strong>${c.lost}</strong></div>
     <div class="stats-row"><span>Capturing Radiance</span><strong>${c.capturingRadiance}</strong></div>
   `;
+  document.getElementById("stats-character-avg-pity").innerHTML = avgPity5RowHtml("character");
 
   const w = state.stats.weaponFate;
   document.getElementById("stats-weapon-fate").innerHTML = `
     <div class="stats-row"><span>At 0 Fate Points</span><strong>${w[0]}</strong></div>
     <div class="stats-row"><span>At 1 Fate Point</span><strong>${w[1]}</strong></div>
     <div class="stats-row"><span>At 2 Fate Points</span><strong>${w[2]}</strong></div>
+  `;
+  document.getElementById("stats-weapon-avg-pity").innerHTML = avgPity5RowHtml("weapon");
+
+  const cf = state.stats.chronicledFate;
+  const chronicledAvg5 = averageOf(
+    state.history.chronicled.filter((h) => h.rarity === 5 && h.pityAtPull != null).map((h) => h.pityAtPull)
+  );
+  document.getElementById("stats-chronicled").innerHTML = `
+    <div class="stats-row"><span>At 0 Fate Points</span><strong>${cf[0]}</strong></div>
+    <div class="stats-row"><span>At 1 Fate Point</span><strong>${cf[1]}</strong></div>
+    <div class="stats-row"><span>Average 5★ Pity</span><strong>${chronicledAvg5 === null ? "—" : chronicledAvg5.toFixed(2)}</strong></div>
   `;
 }
 
