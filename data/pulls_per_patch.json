@@ -1,0 +1,257 @@
+[
+  {
+    "patch": "1.0",
+    "limited_pulls": 169.91,
+    "standard_pulls": 60.0
+  },
+  {
+    "patch": "1.1",
+    "limited_pulls": 69.26,
+    "standard_pulls": 15.0
+  },
+  {
+    "patch": "1.2",
+    "limited_pulls": 68.89,
+    "standard_pulls": 16.0
+  },
+  {
+    "patch": "1.3",
+    "limited_pulls": 66.14,
+    "standard_pulls": 12.0
+  },
+  {
+    "patch": "1.4",
+    "limited_pulls": 59.65,
+    "standard_pulls": 12.0
+  },
+  {
+    "patch": "1.5",
+    "limited_pulls": 61.09,
+    "standard_pulls": 12.0
+  },
+  {
+    "patch": "1.6",
+    "limited_pulls": 69.5,
+    "standard_pulls": 12.0
+  },
+  {
+    "patch": "2.0",
+    "limited_pulls": 85.97,
+    "standard_pulls": 20.0
+  },
+  {
+    "patch": "2.1",
+    "limited_pulls": 94.74,
+    "standard_pulls": 16.0
+  },
+  {
+    "patch": "2.2",
+    "limited_pulls": 67.93,
+    "standard_pulls": 16.0
+  },
+  {
+    "patch": "2.3",
+    "limited_pulls": 74.28,
+    "standard_pulls": 12.0
+  },
+  {
+    "patch": "2.4",
+    "limited_pulls": 83.33,
+    "standard_pulls": 16.0
+  },
+  {
+    "patch": "2.5",
+    "limited_pulls": 55.97,
+    "standard_pulls": 12.0
+  },
+  {
+    "patch": "2.6",
+    "limited_pulls": 101.21,
+    "standard_pulls": 20.0
+  },
+  {
+    "patch": "2.7",
+    "limited_pulls": 57.37,
+    "standard_pulls": 12.0
+  },
+  {
+    "patch": "2.8",
+    "limited_pulls": 67.53,
+    "standard_pulls": 12.0
+  },
+  {
+    "patch": "3.0",
+    "limited_pulls": 88.35,
+    "standard_pulls": 19.0
+  },
+  {
+    "patch": "3.1",
+    "limited_pulls": 93.1,
+    "standard_pulls": 15.0
+  },
+  {
+    "patch": "3.2",
+    "limited_pulls": 60.57,
+    "standard_pulls": 11.0
+  },
+  {
+    "patch": "3.3",
+    "limited_pulls": 68.59,
+    "standard_pulls": 12.0
+  },
+  {
+    "patch": "3.4",
+    "limited_pulls": 86.87,
+    "standard_pulls": 16.0
+  },
+  {
+    "patch": "3.5",
+    "limited_pulls": 77.75,
+    "standard_pulls": 12.0
+  },
+  {
+    "patch": "3.6",
+    "limited_pulls": 76.22,
+    "standard_pulls": 16.0
+  },
+  {
+    "patch": "3.7",
+    "limited_pulls": 55.34,
+    "standard_pulls": 12.0
+  },
+  {
+    "patch": "3.8",
+    "limited_pulls": 61.37,
+    "standard_pulls": 12.0
+  },
+  {
+    "patch": "4.0",
+    "limited_pulls": 88.07,
+    "standard_pulls": 20.0
+  },
+  {
+    "patch": "4.1",
+    "limited_pulls": 100.08,
+    "standard_pulls": 16.0
+  },
+  {
+    "patch": "4.2",
+    "limited_pulls": 84.52,
+    "standard_pulls": 16.0
+  },
+  {
+    "patch": "4.3",
+    "limited_pulls": 63.0,
+    "standard_pulls": 12.0
+  },
+  {
+    "patch": "4.4",
+    "limited_pulls": 88.67,
+    "standard_pulls": 16.0
+  },
+  {
+    "patch": "4.5",
+    "limited_pulls": 56.09,
+    "standard_pulls": 12.0
+  },
+  {
+    "patch": "4.6",
+    "limited_pulls": 69.18,
+    "standard_pulls": 16.0
+  },
+  {
+    "patch": "4.7",
+    "limited_pulls": 67.4,
+    "standard_pulls": 12.0
+  },
+  {
+    "patch": "4.8",
+    "limited_pulls": 73.56,
+    "standard_pulls": 12.0
+  },
+  {
+    "patch": "5.0",
+    "limited_pulls": 130.29,
+    "standard_pulls": 22.0
+  },
+  {
+    "patch": "5.1",
+    "limited_pulls": 69.64,
+    "standard_pulls": 12.0
+  },
+  {
+    "patch": "5.2",
+    "limited_pulls": 91.64,
+    "standard_pulls": 16.0
+  },
+  {
+    "patch": "5.3",
+    "limited_pulls": 86.76,
+    "standard_pulls": 12.0
+  },
+  {
+    "patch": "5.4",
+    "limited_pulls": 59.17,
+    "standard_pulls": 12.0
+  },
+  {
+    "patch": "5.5",
+    "limited_pulls": 83.82,
+    "standard_pulls": 17.0
+  },
+  {
+    "patch": "5.6",
+    "limited_pulls": 60.76,
+    "standard_pulls": 12.0
+  },
+  {
+    "patch": "5.7",
+    "limited_pulls": 62.11,
+    "standard_pulls": 12.0
+  },
+  {
+    "patch": "5.8",
+    "limited_pulls": 77.85,
+    "standard_pulls": 16.0
+  },
+  {
+    "patch": "Luna I",
+    "limited_pulls": 124.72,
+    "standard_pulls": 20.0
+  },
+  {
+    "patch": "Luna II",
+    "limited_pulls": 67.05,
+    "standard_pulls": 12.0
+  },
+  {
+    "patch": "Luna III",
+    "limited_pulls": 71.86,
+    "standard_pulls": 12.0
+  },
+  {
+    "patch": "Luna IV",
+    "limited_pulls": 110.01,
+    "standard_pulls": 19.0
+  },
+  {
+    "patch": "Luna V",
+    "limited_pulls": 64.21,
+    "standard_pulls": 12.0
+  },
+  {
+    "patch": "Luna VI",
+    "limited_pulls": 79.3,
+    "standard_pulls": 16.0
+  },
+  {
+    "patch": "Luna VII",
+    "limited_pulls": 67.71,
+    "standard_pulls": 12.0
+  },
+  {
+    "patch": "Luna VIII",
+    "limited_pulls": 78.36,
+    "standard_pulls": 16.0
+  }
+]

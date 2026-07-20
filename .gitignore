@@ -1,0 +1,11 @@
+# Source spreadsheets used only by the optional scripts/ data-build tooling --
+# never read by the running web app. Keep these local, don't commit them.
+*.xlsx
+~$*.xlsx
+
+# Python build artifacts (scripts/ is stdlib-only, but this still gets created)
+__pycache__/
+*.pyc
+
+# Claude Code local tool-permission grants -- machine/user-specific
+.claude/settings.local.json

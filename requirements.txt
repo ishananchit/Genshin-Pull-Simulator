@@ -1,0 +1,8 @@
+# The web app itself (index.html / style.css / app.js) has no dependencies at
+# all -- it's static HTML/CSS/vanilla JS served by any static file server.
+#
+# The optional data-build scripts under scripts/ (only needed if you want to
+# regenerate data/*.json from the source spreadsheets/wiki data) use nothing
+# beyond the Python 3 standard library, so there is nothing to pip install
+# either way. This file is kept only so the repo has the expected marker for
+# tooling that looks for one.

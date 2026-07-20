@@ -1,0 +1,306 @@
+{
+  "character": {
+    "initial": {
+      "five_star": [
+        "Jean",
+        "Diluc",
+        "Mona",
+        "Qiqi",
+        "Keqing"
+      ],
+      "four_star": [
+        "Xiangling",
+        "Xingqiu",
+        "Chongyun",
+        "Amber",
+        "Lisa",
+        "Kaeya",
+        "Barbara",
+        "Bennett",
+        "Fischl",
+        "Noelle",
+        "Ningguang",
+        "Beidou",
+        "Sucrose",
+        "Razor"
+      ]
+    },
+    "additions": [
+      {
+        "patch": "1.1",
+        "five_star": [],
+        "four_star": [
+          "Diona",
+          "Xinyan"
+        ]
+      },
+      {
+        "patch": "1.5",
+        "five_star": [],
+        "four_star": [
+          "Rosaria"
+        ]
+      },
+      {
+        "patch": "1.6",
+        "five_star": [],
+        "four_star": [
+          "Yanfei"
+        ]
+      },
+      {
+        "patch": "2.1",
+        "five_star": [],
+        "four_star": [
+          "Sayu"
+        ]
+      },
+      {
+        "patch": "2.2",
+        "five_star": [],
+        "four_star": [
+          "Kujou Sara"
+        ]
+      },
+      {
+        "patch": "2.3",
+        "five_star": [],
+        "four_star": [
+          "Thoma"
+        ]
+      },
+      {
+        "patch": "2.4",
+        "five_star": [],
+        "four_star": [
+          "Gorou"
+        ]
+      },
+      {
+        "patch": "2.5",
+        "five_star": [],
+        "four_star": [
+          "Yun Jin"
+        ]
+      },
+      {
+        "patch": "2.8",
+        "five_star": [],
+        "four_star": [
+          "Kuki Shinobu"
+        ]
+      },
+      {
+        "patch": "3.0",
+        "five_star": [],
+        "four_star": [
+          "Shikanoin Heizou"
+        ]
+      },
+      {
+        "patch": "3.1",
+        "five_star": [
+          "Tighnari"
+        ],
+        "four_star": [
+          "Dori",
+          "Collei"
+        ]
+      },
+      {
+        "patch": "3.2",
+        "five_star": [],
+        "four_star": [
+          "Candace"
+        ]
+      },
+      {
+        "patch": "3.3",
+        "five_star": [],
+        "four_star": [
+          "Layla"
+        ]
+      },
+      {
+        "patch": "3.4",
+        "five_star": [],
+        "four_star": [
+          "Faruzan"
+        ]
+      },
+      {
+        "patch": "3.5",
+        "five_star": [],
+        "four_star": [
+          "Yaoyao"
+        ]
+      },
+      {
+        "patch": "3.6",
+        "five_star": [
+          "Dehya"
+        ],
+        "four_star": [
+          "Mika"
+        ]
+      },
+      {
+        "patch": "3.8",
+        "five_star": [],
+        "four_star": [
+          "Kirara"
+        ]
+      },
+      {
+        "patch": "4.1",
+        "five_star": [],
+        "four_star": [
+          "Lynette",
+          "Freminet"
+        ]
+      },
+      {
+        "patch": "4.3",
+        "five_star": [],
+        "four_star": [
+          "Charlotte"
+        ]
+      },
+      {
+        "patch": "4.4",
+        "five_star": [],
+        "four_star": [
+          "Chevreuse"
+        ]
+      },
+      {
+        "patch": "4.5",
+        "five_star": [],
+        "four_star": [
+          "Gaming"
+        ]
+      },
+      {
+        "patch": "4.8",
+        "five_star": [],
+        "four_star": [
+          "Sethos"
+        ]
+      },
+      {
+        "patch": "5.1",
+        "five_star": [],
+        "four_star": [
+          "Kachina"
+        ]
+      },
+      {
+        "patch": "5.3",
+        "five_star": [],
+        "four_star": [
+          "Ororon"
+        ]
+      },
+      {
+        "patch": "5.4",
+        "five_star": [],
+        "four_star": [
+          "Lan Yan"
+        ]
+      },
+      {
+        "patch": "5.5",
+        "five_star": [
+          "Yumemizuki Mizuki"
+        ],
+        "four_star": []
+      },
+      {
+        "patch": "5.6",
+        "five_star": [],
+        "four_star": [
+          "Iansan"
+        ]
+      },
+      {
+        "patch": "5.7",
+        "five_star": [],
+        "four_star": [
+          "Ifa"
+        ]
+      },
+      {
+        "patch": "5.8",
+        "five_star": [],
+        "four_star": [
+          "Dhalia"
+        ]
+      },
+      {
+        "patch": "Luna II",
+        "five_star": [],
+        "four_star": [
+          "Aino"
+        ]
+      },
+      {
+        "patch": "Luna IV",
+        "five_star": [],
+        "four_star": [
+          "Jahoda"
+        ]
+      },
+      {
+        "patch": "Luna V",
+        "five_star": [],
+        "four_star": [
+          "Illuga"
+        ]
+      },
+      {
+        "patch": "Luna VIII",
+        "five_star": [],
+        "four_star": [
+          "Prune"
+        ]
+      }
+    ]
+  },
+  "weapon": {
+    "initial": {
+      "five_star": [
+        "Wolf's Gravestone",
+        "Primordial Jade Winged-Spear",
+        "Lost Prayer to The Sacred Winds",
+        "Amos' Bow",
+        "Aquila Favonia",
+        "Skyward Blade",
+        "Skyward Pride",
+        "Skyward Harp",
+        "Skyward Atlas",
+        "Skyward Spine"
+      ],
+      "four_star": [
+        "Lion's Roar",
+        "Sacrificial Sword",
+        "The Flute",
+        "Favonius Sword",
+        "Rainslasher",
+        "Sacrificial Greatsword",
+        "The Bell",
+        "Favonius Greatsword",
+        "Favonius Lance",
+        "Dragon's Bane",
+        "Eye of Perception",
+        "Sacrificial Fragments",
+        "The Widsith",
+        "Favonius Codex",
+        "Rust",
+        "Sacrificial Bow",
+        "The Stringless",
+        "Favonius Warbow"
+      ]
+    },
+    "additions": []
+  }
+}

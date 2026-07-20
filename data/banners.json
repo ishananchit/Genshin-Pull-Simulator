@@ -1,0 +1,9723 @@
+[
+  {
+    "patch": "1.0",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Venti",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Barbara",
+        "rarity": 4
+      },
+      {
+        "name": "Fischl",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.0",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Aquila Favonia",
+        "rarity": 5
+      },
+      {
+        "name": "Amos' Bow",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      },
+      {
+        "name": "The Stringless",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.0",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Klee",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Xingqiu",
+        "rarity": 4
+      },
+      {
+        "name": "Noelle",
+        "rarity": 4
+      },
+      {
+        "name": "Sucrose",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.0",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Lost Prayer to the Sacred Winds",
+        "rarity": 5
+      },
+      {
+        "name": "Wolf's Gravestone",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.1",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Tartaglia",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Diona",
+        "rarity": 4
+      },
+      {
+        "name": "Beidou",
+        "rarity": 4
+      },
+      {
+        "name": "Ningguang",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.1",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Memory of Dust",
+        "rarity": 5
+      },
+      {
+        "name": "Skyward Harp",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      },
+      {
+        "name": "Rust",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.1",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Zhongli",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Xinyan",
+        "rarity": 4
+      },
+      {
+        "name": "Razor",
+        "rarity": 4
+      },
+      {
+        "name": "Chongyun",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.1",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Vortex Vanquisher",
+        "rarity": 5
+      },
+      {
+        "name": "The Unforged",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.2",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Albedo",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Fischl",
+        "rarity": 4
+      },
+      {
+        "name": "Sucrose",
+        "rarity": 4
+      },
+      {
+        "name": "Bennett",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.2",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Summit Shaper",
+        "rarity": 5
+      },
+      {
+        "name": "Skyward Atlas",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      },
+      {
+        "name": "The Stringless",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.2",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Ganyu",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      },
+      {
+        "name": "Xingqiu",
+        "rarity": 4
+      },
+      {
+        "name": "Noelle",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.2",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Skyward Pride",
+        "rarity": 5
+      },
+      {
+        "name": "Amos' Bow",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.3",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Xiao",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Diona",
+        "rarity": 4
+      },
+      {
+        "name": "Beidou",
+        "rarity": 4
+      },
+      {
+        "name": "Xinyan",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.3",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Primordial Jade Cutter",
+        "rarity": 5
+      },
+      {
+        "name": "Primordial Jade Winged-Spear",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Rust",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.3",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Keqing",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Ningguang",
+        "rarity": 4
+      },
+      {
+        "name": "Bennett",
+        "rarity": 4
+      },
+      {
+        "name": "Barbara",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.3",
+    "phase": 3,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Hu Tao",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Xingqiu",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      },
+      {
+        "name": "Chongyun",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.3",
+    "phase": 3,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Staff of Homa",
+        "rarity": 5
+      },
+      {
+        "name": "Wolf's Gravestone",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Lithic Blade",
+        "rarity": 4
+      },
+      {
+        "name": "Lithic Spear",
+        "rarity": 4
+      },
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.4",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Venti",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sucrose",
+        "rarity": 4
+      },
+      {
+        "name": "Razor",
+        "rarity": 4
+      },
+      {
+        "name": "Noelle",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.4",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Elegy for the End",
+        "rarity": 5
+      },
+      {
+        "name": "Skyward Blade",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "The Alley Flash",
+        "rarity": 4
+      },
+      {
+        "name": "Wine and Song",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.4",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Tartaglia",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Rosaria",
+        "rarity": 4
+      },
+      {
+        "name": "Barbara",
+        "rarity": 4
+      },
+      {
+        "name": "Fischl",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.4",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Skyward Harp",
+        "rarity": 5
+      },
+      {
+        "name": "Lost Prayer to the Sacred Winds",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Alley Hunter",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.5",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Zhongli",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Yanfei",
+        "rarity": 4
+      },
+      {
+        "name": "Noelle",
+        "rarity": 4
+      },
+      {
+        "name": "Diona",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.5",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Summit Shaper",
+        "rarity": 5
+      },
+      {
+        "name": "Memory of Dust",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Lithic Blade",
+        "rarity": 4
+      },
+      {
+        "name": "Lithic Spear",
+        "rarity": 4
+      },
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.5",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Eula",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Xinyan",
+        "rarity": 4
+      },
+      {
+        "name": "Xingqiu",
+        "rarity": 4
+      },
+      {
+        "name": "Beidou",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.5",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Song of Broken Pines",
+        "rarity": 5
+      },
+      {
+        "name": "Aquila Favonia",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      },
+      {
+        "name": "Rust",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.6",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Klee",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Barbara",
+        "rarity": 4
+      },
+      {
+        "name": "Sucrose",
+        "rarity": 4
+      },
+      {
+        "name": "Fischl",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.6",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Skyward Pride",
+        "rarity": 5
+      },
+      {
+        "name": "Lost Prayer to the Sacred Winds",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Mitternachts Waltz",
+        "rarity": 4
+      },
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.6",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Kaedehara Kazuha",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Rosaria",
+        "rarity": 4
+      },
+      {
+        "name": "Bennett",
+        "rarity": 4
+      },
+      {
+        "name": "Razor",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "1.6",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Freedom-Sworn",
+        "rarity": 5
+      },
+      {
+        "name": "Skyward Atlas",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "The Alley Flash",
+        "rarity": 4
+      },
+      {
+        "name": "Wine and Song",
+        "rarity": 4
+      },
+      {
+        "name": "Alley Hunter",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Greatsword",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.0",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Mistsplitter Reforged",
+        "rarity": 5
+      },
+      {
+        "name": "Skyward Spine",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "The Stringless",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.0",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Kamisato Ayaka",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Ningguang",
+        "rarity": 4
+      },
+      {
+        "name": "Chongyun",
+        "rarity": 4
+      },
+      {
+        "name": "Yanfei",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.0",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Yoimiya",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sayu",
+        "rarity": 4
+      },
+      {
+        "name": "Diona",
+        "rarity": 4
+      },
+      {
+        "name": "Xinyan",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.0",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Thundering Pulse",
+        "rarity": 5
+      },
+      {
+        "name": "Skyward Blade",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.1",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Engulfing Lightning",
+        "rarity": 5
+      },
+      {
+        "name": "The Unforged",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.1",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Raiden Shogun",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Kujou Sara",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      },
+      {
+        "name": "Sucrose",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.1",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Everlasting Moonglow",
+        "rarity": 5
+      },
+      {
+        "name": "Primordial Jade Cutter",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      },
+      {
+        "name": "The Stringless",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.1",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Sangonomiya Kokomi",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Rosaria",
+        "rarity": 4
+      },
+      {
+        "name": "Beidou",
+        "rarity": 4
+      },
+      {
+        "name": "Xingqiu",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.2",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Polar Star",
+        "rarity": 5
+      },
+      {
+        "name": "Memory of Dust",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Akuoumaru",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      },
+      {
+        "name": "Rust",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.2",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Tartaglia",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Ningguang",
+        "rarity": 4
+      },
+      {
+        "name": "Chongyun",
+        "rarity": 4
+      },
+      {
+        "name": "Yanfei",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.2",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Hu Tao",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Thoma",
+        "rarity": 4
+      },
+      {
+        "name": "Diona",
+        "rarity": 4
+      },
+      {
+        "name": "Sayu",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.2",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Staff of Homa",
+        "rarity": 5
+      },
+      {
+        "name": "Elegy for the End",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Wavebreaker's Fin",
+        "rarity": 4
+      },
+      {
+        "name": "Mouun's Moon",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.3",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Albedo",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Bennett",
+        "rarity": 4
+      },
+      {
+        "name": "Noelle",
+        "rarity": 4
+      },
+      {
+        "name": "Rosaria",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.3",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Eula",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Bennett",
+        "rarity": 4
+      },
+      {
+        "name": "Noelle",
+        "rarity": 4
+      },
+      {
+        "name": "Rosaria",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.3",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Freedom-Sworn",
+        "rarity": 5
+      },
+      {
+        "name": "Song of Broken Pines",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Wine and Song",
+        "rarity": 4
+      },
+      {
+        "name": "Alley Hunter",
+        "rarity": 4
+      },
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.3",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Arataki Itto",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Gorou",
+        "rarity": 4
+      },
+      {
+        "name": "Barbara",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.3",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Redhorn Stonethresher",
+        "rarity": 5
+      },
+      {
+        "name": "Skyward Harp",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "The Alley Flash",
+        "rarity": 4
+      },
+      {
+        "name": "Mitternachts Waltz",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.4",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Shenhe",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Yun Jin",
+        "rarity": 4
+      },
+      {
+        "name": "Ningguang",
+        "rarity": 4
+      },
+      {
+        "name": "Chongyun",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.4",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Xiao",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Yun Jin",
+        "rarity": 4
+      },
+      {
+        "name": "Ningguang",
+        "rarity": 4
+      },
+      {
+        "name": "Chongyun",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.4",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Calamity Queller",
+        "rarity": 5
+      },
+      {
+        "name": "Primordial Jade Winged-Spear",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Lithic Spear",
+        "rarity": 4
+      },
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.4",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Zhongli",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Xingqiu",
+        "rarity": 4
+      },
+      {
+        "name": "Beidou",
+        "rarity": 4
+      },
+      {
+        "name": "Yanfei",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.4",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Ganyu",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Xingqiu",
+        "rarity": 4
+      },
+      {
+        "name": "Beidou",
+        "rarity": 4
+      },
+      {
+        "name": "Yanfei",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.4",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Vortex Vanquisher",
+        "rarity": 5
+      },
+      {
+        "name": "Amos' Bow",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Lithic Blade",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.5",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Yae Miko",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Fischl",
+        "rarity": 4
+      },
+      {
+        "name": "Diona",
+        "rarity": 4
+      },
+      {
+        "name": "Thoma",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.5",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Kagura's Verity",
+        "rarity": 5
+      },
+      {
+        "name": "Primordial Jade Cutter",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Wavebreaker's Fin",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      },
+      {
+        "name": "The Stringless",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.5",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Raiden Shogun",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Bennett",
+        "rarity": 4
+      },
+      {
+        "name": "Xinyan",
+        "rarity": 4
+      },
+      {
+        "name": "Kujou Sara",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.5",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Sangonomiya Kokomi",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Bennett",
+        "rarity": 4
+      },
+      {
+        "name": "Xinyan",
+        "rarity": 4
+      },
+      {
+        "name": "Kujou Sara",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.5",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Engulfing Lightning",
+        "rarity": 5
+      },
+      {
+        "name": "Everlasting Moonglow",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Akuoumaru",
+        "rarity": 4
+      },
+      {
+        "name": "Mouun's Moon",
+        "rarity": 4
+      },
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.6",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Kamisato Ayato",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sucrose",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      },
+      {
+        "name": "Yun Jin",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.6",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Venti",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sucrose",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      },
+      {
+        "name": "Yun Jin",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.6",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Haran Geppaku Futsu",
+        "rarity": 5
+      },
+      {
+        "name": "Elegy for the End",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      },
+      {
+        "name": "Rust",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.6",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Kamisato Ayaka",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Razor",
+        "rarity": 4
+      },
+      {
+        "name": "Rosaria",
+        "rarity": 4
+      },
+      {
+        "name": "Sayu",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.6",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Mistsplitter Reforged",
+        "rarity": 5
+      },
+      {
+        "name": "The Unforged",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.7",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Yelan",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Barbara",
+        "rarity": 4
+      },
+      {
+        "name": "Yanfei",
+        "rarity": 4
+      },
+      {
+        "name": "Noelle",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.7",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Xiao",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Barbara",
+        "rarity": 4
+      },
+      {
+        "name": "Yanfei",
+        "rarity": 4
+      },
+      {
+        "name": "Noelle",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.7",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Aqua Simulacra",
+        "rarity": 5
+      },
+      {
+        "name": "Primordial Jade Winged-Spear",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Lithic Spear",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.7",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Arataki Itto",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Kuki Shinobu",
+        "rarity": 4
+      },
+      {
+        "name": "Chongyun",
+        "rarity": 4
+      },
+      {
+        "name": "Gorou",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.7",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Redhorn Stonethresher",
+        "rarity": 5
+      },
+      {
+        "name": "Memory of Dust",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Lithic Blade",
+        "rarity": 4
+      },
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      },
+      {
+        "name": "The Stringless",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.8",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Kaedehara Kazuha",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Shikanoin Heizou",
+        "rarity": 4
+      },
+      {
+        "name": "Ningguang",
+        "rarity": 4
+      },
+      {
+        "name": "Thoma",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.8",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Klee",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Shikanoin Heizou",
+        "rarity": 4
+      },
+      {
+        "name": "Ningguang",
+        "rarity": 4
+      },
+      {
+        "name": "Thoma",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.8",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Freedom-Sworn",
+        "rarity": 5
+      },
+      {
+        "name": "Lost Prayer to the Sacred Winds",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "The Alley Flash",
+        "rarity": 4
+      },
+      {
+        "name": "Mitternachts Waltz",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.8",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Yoimiya",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Bennett",
+        "rarity": 4
+      },
+      {
+        "name": "Xinyan",
+        "rarity": 4
+      },
+      {
+        "name": "Yun Jin",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "2.8",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Thundering Pulse",
+        "rarity": 5
+      },
+      {
+        "name": "Summit Shaper",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Wine and Song",
+        "rarity": 4
+      },
+      {
+        "name": "Alley Hunter",
+        "rarity": 4
+      },
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.0",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Tighnari",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Collei",
+        "rarity": 4
+      },
+      {
+        "name": "Diona",
+        "rarity": 4
+      },
+      {
+        "name": "Fischl",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.0",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Zhongli",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Collei",
+        "rarity": 4
+      },
+      {
+        "name": "Diona",
+        "rarity": 4
+      },
+      {
+        "name": "Fischl",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.0",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Hunter's Path",
+        "rarity": 5
+      },
+      {
+        "name": "Vortex Vanquisher",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      },
+      {
+        "name": "The Stringless",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.0",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Ganyu",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Dori",
+        "rarity": 4
+      },
+      {
+        "name": "Sucrose",
+        "rarity": 4
+      },
+      {
+        "name": "Xingqiu",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.0",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Sangonomiya Kokomi",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Dori",
+        "rarity": 4
+      },
+      {
+        "name": "Sucrose",
+        "rarity": 4
+      },
+      {
+        "name": "Xingqiu",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.0",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Everlasting Moonglow",
+        "rarity": 5
+      },
+      {
+        "name": "Amos' Bow",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      },
+      {
+        "name": "Rust",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.1",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Cyno",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Candace",
+        "rarity": 4
+      },
+      {
+        "name": "Kuki Shinobu",
+        "rarity": 4
+      },
+      {
+        "name": "Sayu",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.1",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Venti",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Candace",
+        "rarity": 4
+      },
+      {
+        "name": "Kuki Shinobu",
+        "rarity": 4
+      },
+      {
+        "name": "Sayu",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.1",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Staff of the Scarlet Sands",
+        "rarity": 5
+      },
+      {
+        "name": "Elegy for the End",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Makhaira Aquamarine",
+        "rarity": 4
+      },
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.1",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Nilou",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Barbara",
+        "rarity": 4
+      },
+      {
+        "name": "Beidou",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.1",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Albedo",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Barbara",
+        "rarity": 4
+      },
+      {
+        "name": "Beidou",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.1",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Key of Khaj-Nisut",
+        "rarity": 5
+      },
+      {
+        "name": "Primordial Jade Cutter",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Xiphos' Moonlight",
+        "rarity": 4
+      },
+      {
+        "name": "Wandering Evenstar",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.2",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Nahida",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Razor",
+        "rarity": 4
+      },
+      {
+        "name": "Noelle",
+        "rarity": 4
+      },
+      {
+        "name": "Bennett",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.2",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Yoimiya",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Razor",
+        "rarity": 4
+      },
+      {
+        "name": "Noelle",
+        "rarity": 4
+      },
+      {
+        "name": "Bennett",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.2",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "A Thousand Floating Dreams",
+        "rarity": 5
+      },
+      {
+        "name": "Thundering Pulse",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      },
+      {
+        "name": "Rust",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.2",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Yae Miko",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Layla",
+        "rarity": 4
+      },
+      {
+        "name": "Thoma",
+        "rarity": 4
+      },
+      {
+        "name": "Shikanoin Heizou",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.2",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Tartaglia",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Layla",
+        "rarity": 4
+      },
+      {
+        "name": "Thoma",
+        "rarity": 4
+      },
+      {
+        "name": "Shikanoin Heizou",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.2",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Kagura's Verity",
+        "rarity": 5
+      },
+      {
+        "name": "Polar Star",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      },
+      {
+        "name": "The Stringless",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.3",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Wanderer",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Faruzan",
+        "rarity": 4
+      },
+      {
+        "name": "Gorou",
+        "rarity": 4
+      },
+      {
+        "name": "Yanfei",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.3",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Arataki Itto",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Faruzan",
+        "rarity": 4
+      },
+      {
+        "name": "Gorou",
+        "rarity": 4
+      },
+      {
+        "name": "Yanfei",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.3",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Tulaytullah's Remembrance",
+        "rarity": 5
+      },
+      {
+        "name": "Redhorn Stonethresher",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Wavebreaker's Fin",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.3",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Raiden Shogun",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Rosaria",
+        "rarity": 4
+      },
+      {
+        "name": "Sayu",
+        "rarity": 4
+      },
+      {
+        "name": "Kujou Sara",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.3",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Kamisato Ayato",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Rosaria",
+        "rarity": 4
+      },
+      {
+        "name": "Sayu",
+        "rarity": 4
+      },
+      {
+        "name": "Kujou Sara",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.3",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Engulfing Lightning",
+        "rarity": 5
+      },
+      {
+        "name": "Haran Geppaku Futsu",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Akuoumaru",
+        "rarity": 4
+      },
+      {
+        "name": "Mouun's Moon",
+        "rarity": 4
+      },
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.4",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Alhaitham",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Yaoyao",
+        "rarity": 4
+      },
+      {
+        "name": "Yun Jin",
+        "rarity": 4
+      },
+      {
+        "name": "Xinyan",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.4",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Xiao",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Yaoyao",
+        "rarity": 4
+      },
+      {
+        "name": "Yun Jin",
+        "rarity": 4
+      },
+      {
+        "name": "Xinyan",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.4",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Light of Foliar Incision",
+        "rarity": 5
+      },
+      {
+        "name": "Primordial Jade Winged-Spear",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Lithic Spear",
+        "rarity": 4
+      },
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.4",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Hu Tao",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Xingqiu",
+        "rarity": 4
+      },
+      {
+        "name": "Ningguang",
+        "rarity": 4
+      },
+      {
+        "name": "Beidou",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.4",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Yelan",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Xingqiu",
+        "rarity": 4
+      },
+      {
+        "name": "Ningguang",
+        "rarity": 4
+      },
+      {
+        "name": "Beidou",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.4",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Staff of Homa",
+        "rarity": 5
+      },
+      {
+        "name": "Aqua Simulacra",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Lithic Blade",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      },
+      {
+        "name": "Rust",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.5",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Dehya",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Bennett",
+        "rarity": 4
+      },
+      {
+        "name": "Barbara",
+        "rarity": 4
+      },
+      {
+        "name": "Collei",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.5",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Cyno",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Bennett",
+        "rarity": 4
+      },
+      {
+        "name": "Barbara",
+        "rarity": 4
+      },
+      {
+        "name": "Collei",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.5",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Beacon of the Reed Sea",
+        "rarity": 5
+      },
+      {
+        "name": "Staff of the Scarlet Sands",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "The Alley Flash",
+        "rarity": 4
+      },
+      {
+        "name": "Alley Hunter",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.5",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Shenhe",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Diona",
+        "rarity": 4
+      },
+      {
+        "name": "Sucrose",
+        "rarity": 4
+      },
+      {
+        "name": "Mika",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.5",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Kamisato Ayaka",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Diona",
+        "rarity": 4
+      },
+      {
+        "name": "Sucrose",
+        "rarity": 4
+      },
+      {
+        "name": "Mika",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.5",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Calamity Queller",
+        "rarity": 5
+      },
+      {
+        "name": "Mistsplitter Reforged",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Wine and Song",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.6",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Nahida",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Kuki Shinobu",
+        "rarity": 4
+      },
+      {
+        "name": "Dori",
+        "rarity": 4
+      },
+      {
+        "name": "Layla",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.6",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Nilou",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Kuki Shinobu",
+        "rarity": 4
+      },
+      {
+        "name": "Dori",
+        "rarity": 4
+      },
+      {
+        "name": "Layla",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.6",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "A Thousand Floating Dreams",
+        "rarity": 5
+      },
+      {
+        "name": "Key of Khaj-Nisut",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Xiphos' Moonlight",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      },
+      {
+        "name": "The Stringless",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.6",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Baizhu",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Kaveh",
+        "rarity": 4
+      },
+      {
+        "name": "Candace",
+        "rarity": 4
+      },
+      {
+        "name": "Fischl",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.6",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Ganyu",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Kaveh",
+        "rarity": 4
+      },
+      {
+        "name": "Candace",
+        "rarity": 4
+      },
+      {
+        "name": "Fischl",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.6",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Jadefall's Splendor",
+        "rarity": 5
+      },
+      {
+        "name": "Amos' Bow",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Makhaira Aquamarine",
+        "rarity": 4
+      },
+      {
+        "name": "Wandering Evenstar",
+        "rarity": 4
+      },
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.7",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Yoimiya",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Kirara",
+        "rarity": 4
+      },
+      {
+        "name": "Yun Jin",
+        "rarity": 4
+      },
+      {
+        "name": "Chongyun",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.7",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Yae Miko",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Kirara",
+        "rarity": 4
+      },
+      {
+        "name": "Yun Jin",
+        "rarity": 4
+      },
+      {
+        "name": "Chongyun",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.7",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Thundering Pulse",
+        "rarity": 5
+      },
+      {
+        "name": "Kagura's Verity",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Akuoumaru",
+        "rarity": 4
+      },
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      },
+      {
+        "name": "Rust",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.7",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Alhaitham",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Shikanoin Heizou",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      },
+      {
+        "name": "Yaoyao",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.7",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Kaedehara Kazuha",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Shikanoin Heizou",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      },
+      {
+        "name": "Yaoyao",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.7",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Light of Foliar Incision",
+        "rarity": 5
+      },
+      {
+        "name": "Freedom-Sworn",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Mouun's Moon",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Wavebreaker's Fin",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.8",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Eula",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Mika",
+        "rarity": 4
+      },
+      {
+        "name": "Razor",
+        "rarity": 4
+      },
+      {
+        "name": "Thoma",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.8",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Klee",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Mika",
+        "rarity": 4
+      },
+      {
+        "name": "Razor",
+        "rarity": 4
+      },
+      {
+        "name": "Thoma",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.8",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Song of Broken Pines",
+        "rarity": 5
+      },
+      {
+        "name": "Lost Prayer to the Sacred Winds",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "The Alley Flash",
+        "rarity": 4
+      },
+      {
+        "name": "Alley Hunter",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.8",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Sangonomiya Kokomi",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Faruzan",
+        "rarity": 4
+      },
+      {
+        "name": "Rosaria",
+        "rarity": 4
+      },
+      {
+        "name": "Yanfei",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.8",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Wanderer",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Faruzan",
+        "rarity": 4
+      },
+      {
+        "name": "Rosaria",
+        "rarity": 4
+      },
+      {
+        "name": "Yanfei",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "3.8",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Everlasting Moonglow",
+        "rarity": 5
+      },
+      {
+        "name": "Tulaytullah's Remembrance",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Wine and Song",
+        "rarity": 4
+      },
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.0",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Lyney",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Lynette",
+        "rarity": 4
+      },
+      {
+        "name": "Bennett",
+        "rarity": 4
+      },
+      {
+        "name": "Barbara",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.0",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Yelan",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Lynette",
+        "rarity": 4
+      },
+      {
+        "name": "Bennett",
+        "rarity": 4
+      },
+      {
+        "name": "Barbara",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.0",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "The First Great Magic",
+        "rarity": 5
+      },
+      {
+        "name": "Aqua Simulacra",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.0",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Zhongli",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Freminet",
+        "rarity": 4
+      },
+      {
+        "name": "Sayu",
+        "rarity": 4
+      },
+      {
+        "name": "Noelle",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.0",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Tartaglia",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Freminet",
+        "rarity": 4
+      },
+      {
+        "name": "Sayu",
+        "rarity": 4
+      },
+      {
+        "name": "Noelle",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.0",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Vortex Vanquisher",
+        "rarity": 5
+      },
+      {
+        "name": "Polar Star",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      },
+      {
+        "name": "Rust",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.1",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Neuvillette",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Fischl",
+        "rarity": 4
+      },
+      {
+        "name": "Xingqiu",
+        "rarity": 4
+      },
+      {
+        "name": "Diona",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.1",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Hu Tao",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Fischl",
+        "rarity": 4
+      },
+      {
+        "name": "Xingqiu",
+        "rarity": 4
+      },
+      {
+        "name": "Diona",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.1",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Tome of the Eternal Flow",
+        "rarity": 5
+      },
+      {
+        "name": "Staff of Homa",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "The Dockhand's Assistant",
+        "rarity": 4
+      },
+      {
+        "name": "Portable Power Saw",
+        "rarity": 4
+      },
+      {
+        "name": "Mitternachts Waltz",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.1",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Wriothesley",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Chongyun",
+        "rarity": 4
+      },
+      {
+        "name": "Thoma",
+        "rarity": 4
+      },
+      {
+        "name": "Dori",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.1",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Venti",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Chongyun",
+        "rarity": 4
+      },
+      {
+        "name": "Thoma",
+        "rarity": 4
+      },
+      {
+        "name": "Dori",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.1",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Cashflow Supervision",
+        "rarity": 5
+      },
+      {
+        "name": "Elegy for the End",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Prospector's Drill",
+        "rarity": 4
+      },
+      {
+        "name": "Range Gauge",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.2",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Furina",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Charlotte",
+        "rarity": 4
+      },
+      {
+        "name": "Collei",
+        "rarity": 4
+      },
+      {
+        "name": "Beidou",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.2",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Baizhu",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Charlotte",
+        "rarity": 4
+      },
+      {
+        "name": "Collei",
+        "rarity": 4
+      },
+      {
+        "name": "Beidou",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.2",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Splendor of Tranquil Waters",
+        "rarity": 5
+      },
+      {
+        "name": "Jadefall's Splendor",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      },
+      {
+        "name": "The Stringless",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.2",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Cyno",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Kirara",
+        "rarity": 4
+      },
+      {
+        "name": "Kuki Shinobu",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.2",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Kamisato Ayato",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Kirara",
+        "rarity": 4
+      },
+      {
+        "name": "Kuki Shinobu",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.2",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Staff of the Scarlet Sands",
+        "rarity": 5
+      },
+      {
+        "name": "Haran Geppaku Futsu",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.3",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Navia",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sucrose",
+        "rarity": 4
+      },
+      {
+        "name": "Rosaria",
+        "rarity": 4
+      },
+      {
+        "name": "Candace",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.3",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Kamisato Ayaka",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sucrose",
+        "rarity": 4
+      },
+      {
+        "name": "Rosaria",
+        "rarity": 4
+      },
+      {
+        "name": "Candace",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.3",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Verdict",
+        "rarity": 5
+      },
+      {
+        "name": "Mistsplitter Reforged",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Akuoumaru",
+        "rarity": 4
+      },
+      {
+        "name": "Mouun's Moon",
+        "rarity": 4
+      },
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.3",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Raiden Shogun",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Chevreuse",
+        "rarity": 4
+      },
+      {
+        "name": "Kujou Sara",
+        "rarity": 4
+      },
+      {
+        "name": "Bennett",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.3",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Yoimiya",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Chevreuse",
+        "rarity": 4
+      },
+      {
+        "name": "Kujou Sara",
+        "rarity": 4
+      },
+      {
+        "name": "Bennett",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.3",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Engulfing Lightning",
+        "rarity": 5
+      },
+      {
+        "name": "Thundering Pulse",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Wavebreaker's Fin",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      },
+      {
+        "name": "Rust",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.4",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Xianyun",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Gaming",
+        "rarity": 4
+      },
+      {
+        "name": "Faruzan",
+        "rarity": 4
+      },
+      {
+        "name": "Noelle",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.4",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Nahida",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Gaming",
+        "rarity": 4
+      },
+      {
+        "name": "Faruzan",
+        "rarity": 4
+      },
+      {
+        "name": "Noelle",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.4",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Crane's Echoing Call",
+        "rarity": 5
+      },
+      {
+        "name": "A Thousand Floating Dreams",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Lithic Spear",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.4",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Xiao",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Yaoyao",
+        "rarity": 4
+      },
+      {
+        "name": "Xinyan",
+        "rarity": 4
+      },
+      {
+        "name": "Ningguang",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.4",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Yae Miko",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Yaoyao",
+        "rarity": 4
+      },
+      {
+        "name": "Xinyan",
+        "rarity": 4
+      },
+      {
+        "name": "Ningguang",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.4",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Kagura's Verity",
+        "rarity": 5
+      },
+      {
+        "name": "Primordial Jade Winged-Spear",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Lithic Blade",
+        "rarity": 4
+      },
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      },
+      {
+        "name": "The Stringless",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.5",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Chiori",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Gorou",
+        "rarity": 4
+      },
+      {
+        "name": "Yun Jin",
+        "rarity": 4
+      },
+      {
+        "name": "Dori",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.5",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Arataki Itto",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Gorou",
+        "rarity": 4
+      },
+      {
+        "name": "Yun Jin",
+        "rarity": 4
+      },
+      {
+        "name": "Dori",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.5",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Uraku Misugiri",
+        "rarity": 5
+      },
+      {
+        "name": "Redhorn Stonethresher",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "The Alley Flash",
+        "rarity": 4
+      },
+      {
+        "name": "Alley Hunter",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.5",
+    "phase": 1,
+    "banner_type": "chronicled",
+    "five_star": [
+      {
+        "name": "Albedo",
+        "rarity": 5
+      },
+      {
+        "name": "Diluc",
+        "rarity": 5
+      },
+      {
+        "name": "Eula",
+        "rarity": 5
+      },
+      {
+        "name": "Jean",
+        "rarity": 5
+      },
+      {
+        "name": "Klee",
+        "rarity": 5
+      },
+      {
+        "name": "Mona",
+        "rarity": 5
+      },
+      {
+        "name": "Aquila Favonia",
+        "rarity": 5
+      },
+      {
+        "name": "Beacon of the Reed Sea",
+        "rarity": 5
+      },
+      {
+        "name": "Hunter's Path",
+        "rarity": 5
+      },
+      {
+        "name": "Lost Prayer to the Sacred Winds",
+        "rarity": 5
+      },
+      {
+        "name": "Skyward Atlas",
+        "rarity": 5
+      },
+      {
+        "name": "Skyward Blade",
+        "rarity": 5
+      },
+      {
+        "name": "Skyward Harp",
+        "rarity": 5
+      },
+      {
+        "name": "Skyward Pride",
+        "rarity": 5
+      },
+      {
+        "name": "Skyward Spine",
+        "rarity": 5
+      },
+      {
+        "name": "Song of Broken Pines",
+        "rarity": 5
+      },
+      {
+        "name": "Wolf's Gravestone",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Amber",
+        "rarity": 4
+      },
+      {
+        "name": "Barbara",
+        "rarity": 4
+      },
+      {
+        "name": "Bennett",
+        "rarity": 4
+      },
+      {
+        "name": "Diona",
+        "rarity": 4
+      },
+      {
+        "name": "Fischl",
+        "rarity": 4
+      },
+      {
+        "name": "Kaeya",
+        "rarity": 4
+      },
+      {
+        "name": "Lisa",
+        "rarity": 4
+      },
+      {
+        "name": "Mika",
+        "rarity": 4
+      },
+      {
+        "name": "Noelle",
+        "rarity": 4
+      },
+      {
+        "name": "Razor",
+        "rarity": 4
+      },
+      {
+        "name": "Rosaria",
+        "rarity": 4
+      },
+      {
+        "name": "Sucrose",
+        "rarity": 4
+      },
+      {
+        "name": "Alley Hunter",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      },
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "Mitternachts Waltz",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      },
+      {
+        "name": "Rust",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      },
+      {
+        "name": "The Alley Flash",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "The Stringless",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      },
+      {
+        "name": "Wine and Song",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.5",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Neuvillette",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Barbara",
+        "rarity": 4
+      },
+      {
+        "name": "Xingqiu",
+        "rarity": 4
+      },
+      {
+        "name": "Yanfei",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.5",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Kaedehara Kazuha",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Barbara",
+        "rarity": 4
+      },
+      {
+        "name": "Xingqiu",
+        "rarity": 4
+      },
+      {
+        "name": "Yanfei",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.5",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Tome of the Eternal Flow",
+        "rarity": 5
+      },
+      {
+        "name": "Freedom-Sworn",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Wine and Song",
+        "rarity": 4
+      },
+      {
+        "name": "Mitternachts Waltz",
+        "rarity": 4
+      },
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.6",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Arlecchino",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Freminet",
+        "rarity": 4
+      },
+      {
+        "name": "Lynette",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.6",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Lyney",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Freminet",
+        "rarity": 4
+      },
+      {
+        "name": "Lynette",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.6",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Crimson Moon's Semblance",
+        "rarity": 5
+      },
+      {
+        "name": "The First Great Magic",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "The Dockhand's Assistant",
+        "rarity": 4
+      },
+      {
+        "name": "Portable Power Saw",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.6",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Wanderer",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Beidou",
+        "rarity": 4
+      },
+      {
+        "name": "Faruzan",
+        "rarity": 4
+      },
+      {
+        "name": "Layla",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.6",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Baizhu",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Beidou",
+        "rarity": 4
+      },
+      {
+        "name": "Faruzan",
+        "rarity": 4
+      },
+      {
+        "name": "Layla",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.6",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Tulaytullah's Remembrance",
+        "rarity": 5
+      },
+      {
+        "name": "Jadefall's Splendor",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Range Gauge",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      },
+      {
+        "name": "Prospector's Drill",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.7",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Clorinde",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sethos",
+        "rarity": 4
+      },
+      {
+        "name": "Bennett",
+        "rarity": 4
+      },
+      {
+        "name": "Thoma",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.7",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Alhaitham",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sethos",
+        "rarity": 4
+      },
+      {
+        "name": "Bennett",
+        "rarity": 4
+      },
+      {
+        "name": "Thoma",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.7",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Absolution",
+        "rarity": 5
+      },
+      {
+        "name": "Light of Foliar Incision",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Lithic Spear",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      },
+      {
+        "name": "The Stringless",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.7",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Sigewinne",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Noelle",
+        "rarity": 4
+      },
+      {
+        "name": "Gaming",
+        "rarity": 4
+      },
+      {
+        "name": "Rosaria",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.7",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Furina",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Noelle",
+        "rarity": 4
+      },
+      {
+        "name": "Gaming",
+        "rarity": 4
+      },
+      {
+        "name": "Rosaria",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.7",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Silvershower Heartstrings",
+        "rarity": 5
+      },
+      {
+        "name": "Splendor of Tranquil Waters",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Lithic Blade",
+        "rarity": 4
+      },
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.8",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Navia",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Kirara",
+        "rarity": 4
+      },
+      {
+        "name": "Kaveh",
+        "rarity": 4
+      },
+      {
+        "name": "Ningguang",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.8",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Nilou",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Kirara",
+        "rarity": 4
+      },
+      {
+        "name": "Kaveh",
+        "rarity": 4
+      },
+      {
+        "name": "Ningguang",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.8",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Verdict",
+        "rarity": 5
+      },
+      {
+        "name": "Key of Khaj-Nisut",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Xiphos' Moonlight",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      },
+      {
+        "name": "Rust",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.8",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Emilie",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Yanfei",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      },
+      {
+        "name": "Razor",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.8",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Yelan",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Yanfei",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      },
+      {
+        "name": "Razor",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "4.8",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Lumidouce Elegy",
+        "rarity": 5
+      },
+      {
+        "name": "Aqua Simulacra",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Makhaira Aquamarine",
+        "rarity": 4
+      },
+      {
+        "name": "Wandering Evenstar",
+        "rarity": 4
+      },
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.0",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Mualani",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Kachina",
+        "rarity": 4
+      },
+      {
+        "name": "Xinyan",
+        "rarity": 4
+      },
+      {
+        "name": "Bennett",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.0",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Kaedehara Kazuha",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Kachina",
+        "rarity": 4
+      },
+      {
+        "name": "Xinyan",
+        "rarity": 4
+      },
+      {
+        "name": "Bennett",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.0",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Surf's Up",
+        "rarity": 5
+      },
+      {
+        "name": "Freedom-Sworn",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      },
+      {
+        "name": "The Stringless",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.0",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Kinich",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Thoma",
+        "rarity": 4
+      },
+      {
+        "name": "Kujou Sara",
+        "rarity": 4
+      },
+      {
+        "name": "Chevreuse",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.0",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Raiden Shogun",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Thoma",
+        "rarity": 4
+      },
+      {
+        "name": "Kujou Sara",
+        "rarity": 4
+      },
+      {
+        "name": "Chevreuse",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.0",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Fang of the Mountain King",
+        "rarity": 5
+      },
+      {
+        "name": "Engulfing Lightning",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.1",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Xilonen",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Dori",
+        "rarity": 4
+      },
+      {
+        "name": "Candace",
+        "rarity": 4
+      },
+      {
+        "name": "Collei",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.1",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Chiori",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Dori",
+        "rarity": 4
+      },
+      {
+        "name": "Candace",
+        "rarity": 4
+      },
+      {
+        "name": "Collei",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.1",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Peak Patrol Song",
+        "rarity": 5
+      },
+      {
+        "name": "Uraku Misugiri",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sturdy Bone",
+        "rarity": 4
+      },
+      {
+        "name": "Mountain-Bracing Bolt",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      },
+      {
+        "name": "Rust",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.1",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Nahida",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sethos",
+        "rarity": 4
+      },
+      {
+        "name": "Xingqiu",
+        "rarity": 4
+      },
+      {
+        "name": "Kuki Shinobu",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.1",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Hu Tao",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sethos",
+        "rarity": 4
+      },
+      {
+        "name": "Xingqiu",
+        "rarity": 4
+      },
+      {
+        "name": "Kuki Shinobu",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.1",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "A Thousand Floating Dreams",
+        "rarity": 5
+      },
+      {
+        "name": "Staff of Homa",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Fruitful Hook",
+        "rarity": 4
+      },
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.2",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Chasca",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Ororon",
+        "rarity": 4
+      },
+      {
+        "name": "Sucrose",
+        "rarity": 4
+      },
+      {
+        "name": "Barbara",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.2",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Lyney",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Ororon",
+        "rarity": 4
+      },
+      {
+        "name": "Sucrose",
+        "rarity": 4
+      },
+      {
+        "name": "Barbara",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.2",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Astral Vulture's Crimson Plumage",
+        "rarity": 5
+      },
+      {
+        "name": "The First Great Magic",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Waveriding Whirl",
+        "rarity": 4
+      },
+      {
+        "name": "Flower-Wreathed Feathers",
+        "rarity": 4
+      },
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.2",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Neuvillette",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Shikanoin Heizou",
+        "rarity": 4
+      },
+      {
+        "name": "Fischl",
+        "rarity": 4
+      },
+      {
+        "name": "Yaoyao",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.2",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Zhongli",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Shikanoin Heizou",
+        "rarity": 4
+      },
+      {
+        "name": "Fischl",
+        "rarity": 4
+      },
+      {
+        "name": "Yaoyao",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.2",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Tome of the Eternal Flow",
+        "rarity": 5
+      },
+      {
+        "name": "Vortex Vanquisher",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Mitternachts Waltz",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.3",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Mavuika",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Kachina",
+        "rarity": 4
+      },
+      {
+        "name": "Bennett",
+        "rarity": 4
+      },
+      {
+        "name": "Diona",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.3",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Citlali",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Kachina",
+        "rarity": 4
+      },
+      {
+        "name": "Bennett",
+        "rarity": 4
+      },
+      {
+        "name": "Diona",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.3",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "A Thousand Blazing Suns",
+        "rarity": 5
+      },
+      {
+        "name": "Starcaller's Watch",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Lithic Blade",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      },
+      {
+        "name": "The Stringless",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.3",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Arlecchino",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Lan Yan",
+        "rarity": 4
+      },
+      {
+        "name": "Chevreuse",
+        "rarity": 4
+      },
+      {
+        "name": "Rosaria",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.3",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Clorinde",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Lan Yan",
+        "rarity": 4
+      },
+      {
+        "name": "Chevreuse",
+        "rarity": 4
+      },
+      {
+        "name": "Rosaria",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.3",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Crimson Moon's Semblance",
+        "rarity": 5
+      },
+      {
+        "name": "Absolution",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "rarity": 4
+      },
+      {
+        "name": "Lithic Spear",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.3",
+    "phase": 2,
+    "banner_type": "chronicled",
+    "five_star": [
+      {
+        "name": "Baizhu",
+        "rarity": 5
+      },
+      {
+        "name": "Shenhe",
+        "rarity": 5
+      },
+      {
+        "name": "Keqing",
+        "rarity": 5
+      },
+      {
+        "name": "Ganyu",
+        "rarity": 5
+      },
+      {
+        "name": "Qiqi",
+        "rarity": 5
+      },
+      {
+        "name": "Tartaglia",
+        "rarity": 5
+      },
+      {
+        "name": "Xiao",
+        "rarity": 5
+      },
+      {
+        "name": "Primordial Jade Cutter",
+        "rarity": 5
+      },
+      {
+        "name": "Summit Shaper",
+        "rarity": 5
+      },
+      {
+        "name": "The Unforged",
+        "rarity": 5
+      },
+      {
+        "name": "Calamity Queller",
+        "rarity": 5
+      },
+      {
+        "name": "Primordial Jade Winged-Spear",
+        "rarity": 5
+      },
+      {
+        "name": "Jadefall's Splendor",
+        "rarity": 5
+      },
+      {
+        "name": "Memory of Dust",
+        "rarity": 5
+      },
+      {
+        "name": "Polar Star",
+        "rarity": 5
+      },
+      {
+        "name": "Amos' Bow",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Beidou",
+        "rarity": 4
+      },
+      {
+        "name": "Chongyun",
+        "rarity": 4
+      },
+      {
+        "name": "Gaming",
+        "rarity": 4
+      },
+      {
+        "name": "Ningguang",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      },
+      {
+        "name": "Xingqiu",
+        "rarity": 4
+      },
+      {
+        "name": "Xinyan",
+        "rarity": 4
+      },
+      {
+        "name": "Yanfei",
+        "rarity": 4
+      },
+      {
+        "name": "Yaoyao",
+        "rarity": 4
+      },
+      {
+        "name": "Yun Jin",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      },
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "Lithic Blade",
+        "rarity": 4
+      },
+      {
+        "name": "Lithic Spear",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      },
+      {
+        "name": "Rust",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "The Stringless",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.4",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Yumemizuki Mizuki",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Gorou",
+        "rarity": 4
+      },
+      {
+        "name": "Sayu",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.4",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Sigewinne",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Gorou",
+        "rarity": 4
+      },
+      {
+        "name": "Sayu",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.4",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Sunny Morning Sleep-In",
+        "rarity": 5
+      },
+      {
+        "name": "Silvershower Heartstrings",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Akuoumaru",
+        "rarity": 4
+      },
+      {
+        "name": "Wavebreaker's Fin",
+        "rarity": 4
+      },
+      {
+        "name": "Mouun's Moon",
+        "rarity": 4
+      },
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.4",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Furina",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Charlotte",
+        "rarity": 4
+      },
+      {
+        "name": "Chongyun",
+        "rarity": 4
+      },
+      {
+        "name": "Mika",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.4",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Wriothesley",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Charlotte",
+        "rarity": 4
+      },
+      {
+        "name": "Chongyun",
+        "rarity": 4
+      },
+      {
+        "name": "Mika",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.4",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Splendor of Tranquil Waters",
+        "rarity": 5
+      },
+      {
+        "name": "Cashflow Supervision",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      },
+      {
+        "name": "Rust",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.5",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Varesa",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Iansan",
+        "rarity": 4
+      },
+      {
+        "name": "Chevreuse",
+        "rarity": 4
+      },
+      {
+        "name": "Gaming",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.5",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Xianyun",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Iansan",
+        "rarity": 4
+      },
+      {
+        "name": "Chevreuse",
+        "rarity": 4
+      },
+      {
+        "name": "Gaming",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.5",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Vivid Notions",
+        "rarity": 5
+      },
+      {
+        "name": "Crane's Echoing Call",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sturdy Bone",
+        "rarity": 4
+      },
+      {
+        "name": "Fruitful Hook",
+        "rarity": 4
+      },
+      {
+        "name": "Mountain-Bracing Bolt",
+        "rarity": 4
+      },
+      {
+        "name": "Waveriding Whirl",
+        "rarity": 4
+      },
+      {
+        "name": "Flower-Wreathed Feathers",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.5",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Xilonen",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Faruzan",
+        "rarity": 4
+      },
+      {
+        "name": "Beidou",
+        "rarity": 4
+      },
+      {
+        "name": "Yanfei",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.5",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Venti",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Faruzan",
+        "rarity": 4
+      },
+      {
+        "name": "Beidou",
+        "rarity": 4
+      },
+      {
+        "name": "Yanfei",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.5",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Peak Patrol Song",
+        "rarity": 5
+      },
+      {
+        "name": "Elegy for the End",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.6",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Escoffier",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Ifa",
+        "rarity": 4
+      },
+      {
+        "name": "Ororon",
+        "rarity": 4
+      },
+      {
+        "name": "Layla",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.6",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Navia",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Ifa",
+        "rarity": 4
+      },
+      {
+        "name": "Ororon",
+        "rarity": 4
+      },
+      {
+        "name": "Layla",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.6",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Symphonist of Scents",
+        "rarity": 5
+      },
+      {
+        "name": "Verdict",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "The Dockhand's Assistant",
+        "rarity": 4
+      },
+      {
+        "name": "Portable Power Saw",
+        "rarity": 4
+      },
+      {
+        "name": "Prospector's Drill",
+        "rarity": 4
+      },
+      {
+        "name": "Range Gauge",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.6",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Kinich",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Thoma",
+        "rarity": 4
+      },
+      {
+        "name": "Kujou Sara",
+        "rarity": 4
+      },
+      {
+        "name": "Lynette",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.6",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Raiden Shogun",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Thoma",
+        "rarity": 4
+      },
+      {
+        "name": "Kujou Sara",
+        "rarity": 4
+      },
+      {
+        "name": "Lynette",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.6",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Fang of the Mountain King",
+        "rarity": 5
+      },
+      {
+        "name": "Engulfing Lightning",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      },
+      {
+        "name": "The Stringless",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.6",
+    "phase": 2,
+    "banner_type": "chronicled",
+    "five_star": [
+      {
+        "name": "Kamisato Ayaka",
+        "rarity": 5
+      },
+      {
+        "name": "Kamisato Ayato",
+        "rarity": 5
+      },
+      {
+        "name": "Yoimiya",
+        "rarity": 5
+      },
+      {
+        "name": "Chiori",
+        "rarity": 5
+      },
+      {
+        "name": "Yae Miko",
+        "rarity": 5
+      },
+      {
+        "name": "Arataki Itto",
+        "rarity": 5
+      },
+      {
+        "name": "Sangonomiya Kokomi",
+        "rarity": 5
+      },
+      {
+        "name": "Kaedehara Kazuha",
+        "rarity": 5
+      },
+      {
+        "name": "Uraku Misugiri",
+        "rarity": 5
+      },
+      {
+        "name": "Haran Geppaku Futsu",
+        "rarity": 5
+      },
+      {
+        "name": "Mistsplitter Reforged",
+        "rarity": 5
+      },
+      {
+        "name": "Freedom-Sworn",
+        "rarity": 5
+      },
+      {
+        "name": "Redhorn Stonethresher",
+        "rarity": 5
+      },
+      {
+        "name": "Kagura's Verity",
+        "rarity": 5
+      },
+      {
+        "name": "Everlasting Moonglow",
+        "rarity": 5
+      },
+      {
+        "name": "Thundering Pulse",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Gorou",
+        "rarity": 4
+      },
+      {
+        "name": "Kirara",
+        "rarity": 4
+      },
+      {
+        "name": "Kujou Sara",
+        "rarity": 4
+      },
+      {
+        "name": "Kuki Shinobu",
+        "rarity": 4
+      },
+      {
+        "name": "Sayu",
+        "rarity": 4
+      },
+      {
+        "name": "Shikanoin Heizou",
+        "rarity": 4
+      },
+      {
+        "name": "Thoma",
+        "rarity": 4
+      },
+      {
+        "name": "Akuoumaru",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      },
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "Mouun's Moon",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      },
+      {
+        "name": "Rust",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "The Stringless",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      },
+      {
+        "name": "Wavebreaker's Fin",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.7",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Skirk",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Dahlia",
+        "rarity": 4
+      },
+      {
+        "name": "Candace",
+        "rarity": 4
+      },
+      {
+        "name": "Diona",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.7",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Shenhe",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Dahlia",
+        "rarity": 4
+      },
+      {
+        "name": "Candace",
+        "rarity": 4
+      },
+      {
+        "name": "Diona",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.7",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Azurelight",
+        "rarity": 5
+      },
+      {
+        "name": "Calamity Queller",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Xiphos' Moonlight",
+        "rarity": 4
+      },
+      {
+        "name": "Makhaira Aquamarine",
+        "rarity": 4
+      },
+      {
+        "name": "Wandering Evenstar",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.7",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Mavuika",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Iansan",
+        "rarity": 4
+      },
+      {
+        "name": "Yaoyao",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.7",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Emilie",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Iansan",
+        "rarity": 4
+      },
+      {
+        "name": "Yaoyao",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.7",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "A Thousand Blazing Suns",
+        "rarity": 5
+      },
+      {
+        "name": "Lumidouce Elegy",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      },
+      {
+        "name": "Rust",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.8",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Ineffa",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sethos",
+        "rarity": 4
+      },
+      {
+        "name": "Xingqiu",
+        "rarity": 4
+      },
+      {
+        "name": "Fischl",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.8",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Citlali",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sethos",
+        "rarity": 4
+      },
+      {
+        "name": "Xingqiu",
+        "rarity": 4
+      },
+      {
+        "name": "Fischl",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.8",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Fractured Halo",
+        "rarity": 5
+      },
+      {
+        "name": "Starcaller's Watch",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sturdy Bone",
+        "rarity": 4
+      },
+      {
+        "name": "Mountain-Bracing Bolt",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.8",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Mualani",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Ifa",
+        "rarity": 4
+      },
+      {
+        "name": "Ororon",
+        "rarity": 4
+      },
+      {
+        "name": "Bennett",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.8",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Chasca",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Ifa",
+        "rarity": 4
+      },
+      {
+        "name": "Ororon",
+        "rarity": 4
+      },
+      {
+        "name": "Bennett",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "5.8",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Surf's Up",
+        "rarity": 5
+      },
+      {
+        "name": "Astral Vulture's Crimson Plumage",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Fruitful Hook",
+        "rarity": 4
+      },
+      {
+        "name": "Waveriding Whirl",
+        "rarity": 4
+      },
+      {
+        "name": "Flower-Wreathed Feathers",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna I",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Lauma",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Barbara",
+        "rarity": 4
+      },
+      {
+        "name": "Kuki Shinobu",
+        "rarity": 4
+      },
+      {
+        "name": "Kaveh",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna I",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Nahida",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Barbara",
+        "rarity": 4
+      },
+      {
+        "name": "Kuki Shinobu",
+        "rarity": 4
+      },
+      {
+        "name": "Kaveh",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna I",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Nightweaver's Looking Glass",
+        "rarity": 5
+      },
+      {
+        "name": "A Thousand Floating Dreams",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      },
+      {
+        "name": "The Stringless",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna I",
+    "phase": 1,
+    "banner_type": "chronicled",
+    "five_star": [
+      {
+        "name": "Dehya",
+        "rarity": 5
+      },
+      {
+        "name": "Alhaitham",
+        "rarity": 5
+      },
+      {
+        "name": "Wanderer",
+        "rarity": 5
+      },
+      {
+        "name": "Cyno",
+        "rarity": 5
+      },
+      {
+        "name": "Nilou",
+        "rarity": 5
+      },
+      {
+        "name": "Tighnari",
+        "rarity": 5
+      },
+      {
+        "name": "Light of Foliar Incision",
+        "rarity": 5
+      },
+      {
+        "name": "Key of Khaj-Nisut",
+        "rarity": 5
+      },
+      {
+        "name": "Beacon of the Reed Sea",
+        "rarity": 5
+      },
+      {
+        "name": "Staff of the Scarlet Sands",
+        "rarity": 5
+      },
+      {
+        "name": "Tulaytullah's Remembrance",
+        "rarity": 5
+      },
+      {
+        "name": "Hunter's Path",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sethos",
+        "rarity": 4
+      },
+      {
+        "name": "Kaveh",
+        "rarity": 4
+      },
+      {
+        "name": "Faruzan",
+        "rarity": 4
+      },
+      {
+        "name": "Layla",
+        "rarity": 4
+      },
+      {
+        "name": "Candace",
+        "rarity": 4
+      },
+      {
+        "name": "Dori",
+        "rarity": 4
+      },
+      {
+        "name": "Collei",
+        "rarity": 4
+      },
+      {
+        "name": "Xiphos' Moonlight",
+        "rarity": 4
+      },
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      },
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Makhaira Aquamarine",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Wandering Evenstar",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      },
+      {
+        "name": "Rust",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "rarity": 4
+      },
+      {
+        "name": "The Stringless",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna I",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Flins",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Aino",
+        "rarity": 4
+      },
+      {
+        "name": "Sucrose",
+        "rarity": 4
+      },
+      {
+        "name": "Dori",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna I",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Yelan",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Aino",
+        "rarity": 4
+      },
+      {
+        "name": "Sucrose",
+        "rarity": 4
+      },
+      {
+        "name": "Dori",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna I",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Bloodsoaked Ruins",
+        "rarity": 5
+      },
+      {
+        "name": "Aqua Simulacra",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna II",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Nefer",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Xingqiu",
+        "rarity": 4
+      },
+      {
+        "name": "Collei",
+        "rarity": 4
+      },
+      {
+        "name": "Yaoyao",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna II",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Furina",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Xingqiu",
+        "rarity": 4
+      },
+      {
+        "name": "Collei",
+        "rarity": 4
+      },
+      {
+        "name": "Yaoyao",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna II",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Reliquary of Truth",
+        "rarity": 5
+      },
+      {
+        "name": "Splendor of Tranquil Waters",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Moonweaver's Dawn",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificer's Staff",
+        "rarity": 4
+      },
+      {
+        "name": "Dawning Frost",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna II",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Arlecchino",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Lan Yan",
+        "rarity": 4
+      },
+      {
+        "name": "Rosaria",
+        "rarity": 4
+      },
+      {
+        "name": "Yun Jin",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna II",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Zhongli",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Lan Yan",
+        "rarity": 4
+      },
+      {
+        "name": "Rosaria",
+        "rarity": 4
+      },
+      {
+        "name": "Yun Jin",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna II",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Crimson Moon's Semblance",
+        "rarity": 5
+      },
+      {
+        "name": "Vortex Vanquisher",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "The Dockhand's Assistant",
+        "rarity": 4
+      },
+      {
+        "name": "Portable Power Saw",
+        "rarity": 4
+      },
+      {
+        "name": "Range Gauge",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna III",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Durin",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Jahoda",
+        "rarity": 4
+      },
+      {
+        "name": "Bennett",
+        "rarity": 4
+      },
+      {
+        "name": "Faruzan",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna III",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Venti",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Jahoda",
+        "rarity": 4
+      },
+      {
+        "name": "Bennett",
+        "rarity": 4
+      },
+      {
+        "name": "Faruzan",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna III",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Athame Artis",
+        "rarity": 5
+      },
+      {
+        "name": "The Daybreak Chronicles",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "The Alley Flash",
+        "rarity": 4
+      },
+      {
+        "name": "Prospector's Drill",
+        "rarity": 4
+      },
+      {
+        "name": "Wine and Song",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      },
+      {
+        "name": "The Stringless",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna III",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Varesa",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Iansan",
+        "rarity": 4
+      },
+      {
+        "name": "Chevreuse",
+        "rarity": 4
+      },
+      {
+        "name": "Gaming",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna III",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Xilonen",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Iansan",
+        "rarity": 4
+      },
+      {
+        "name": "Chevreuse",
+        "rarity": 4
+      },
+      {
+        "name": "Gaming",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna III",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Vivid Notions",
+        "rarity": 5
+      },
+      {
+        "name": "Peak Patrol Song",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Fruitful Hook",
+        "rarity": 4
+      },
+      {
+        "name": "Alley Hunter",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna IV",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Columbina",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sethos",
+        "rarity": 4
+      },
+      {
+        "name": "Fischl",
+        "rarity": 4
+      },
+      {
+        "name": "Ifa",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna IV",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Ineffa",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sethos",
+        "rarity": 4
+      },
+      {
+        "name": "Fischl",
+        "rarity": 4
+      },
+      {
+        "name": "Ifa",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna IV",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Nocturne's Curtain Call",
+        "rarity": 5
+      },
+      {
+        "name": "Fractured Halo",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Mountain-Bracing Bolt",
+        "rarity": 4
+      },
+      {
+        "name": "Waveriding Whirl",
+        "rarity": 4
+      },
+      {
+        "name": "Mitternachts Waltz",
+        "rarity": 4
+      },
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna IV",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Zibai",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Illuga",
+        "rarity": 4
+      },
+      {
+        "name": "Aino",
+        "rarity": 4
+      },
+      {
+        "name": "Gorou",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna IV",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Neuvillette",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Illuga",
+        "rarity": 4
+      },
+      {
+        "name": "Aino",
+        "rarity": 4
+      },
+      {
+        "name": "Gorou",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna IV",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Lightbearing Moonshard",
+        "rarity": 5
+      },
+      {
+        "name": "Tome of the Eternal Flow",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Xiphos' Moonlight",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna V",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Varka",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Bennett",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      },
+      {
+        "name": "Sucrose",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna V",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Flins",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Bennett",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      },
+      {
+        "name": "Sucrose",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna V",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Gest of the Mighty Wolf",
+        "rarity": 5
+      },
+      {
+        "name": "Bloodsoaked Ruins",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Sacrificer's Staff",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna V",
+    "phase": 1,
+    "banner_type": "chronicled",
+    "five_star": [
+      {
+        "name": "Eula",
+        "rarity": 5
+      },
+      {
+        "name": "Mona",
+        "rarity": 5
+      },
+      {
+        "name": "Albedo",
+        "rarity": 5
+      },
+      {
+        "name": "Klee",
+        "rarity": 5
+      },
+      {
+        "name": "Diluc",
+        "rarity": 5
+      },
+      {
+        "name": "Jean",
+        "rarity": 5
+      },
+      {
+        "name": "Skyward Blade",
+        "rarity": 5
+      },
+      {
+        "name": "Aquila Favonia",
+        "rarity": 5
+      },
+      {
+        "name": "Song of Broken Pines",
+        "rarity": 5
+      },
+      {
+        "name": "Wolf's Gravestone",
+        "rarity": 5
+      },
+      {
+        "name": "Skyward Pride",
+        "rarity": 5
+      },
+      {
+        "name": "Skyward Spine",
+        "rarity": 5
+      },
+      {
+        "name": "Lost Prayer to the Sacred Winds",
+        "rarity": 5
+      },
+      {
+        "name": "Skyward Atlas",
+        "rarity": 5
+      },
+      {
+        "name": "Elegy for the End",
+        "rarity": 5
+      },
+      {
+        "name": "Skyward Harp",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Dahlia",
+        "rarity": 4
+      },
+      {
+        "name": "Mika",
+        "rarity": 4
+      },
+      {
+        "name": "Rosaria",
+        "rarity": 4
+      },
+      {
+        "name": "Sucrose",
+        "rarity": 4
+      },
+      {
+        "name": "Diona",
+        "rarity": 4
+      },
+      {
+        "name": "Noelle",
+        "rarity": 4
+      },
+      {
+        "name": "Bennett",
+        "rarity": 4
+      },
+      {
+        "name": "Fischl",
+        "rarity": 4
+      },
+      {
+        "name": "Amber",
+        "rarity": 4
+      },
+      {
+        "name": "Razor",
+        "rarity": 4
+      },
+      {
+        "name": "Kaeya",
+        "rarity": 4
+      },
+      {
+        "name": "Barbara",
+        "rarity": 4
+      },
+      {
+        "name": "Lisa",
+        "rarity": 4
+      },
+      {
+        "name": "The Alley Flash",
+        "rarity": 4
+      },
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      },
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Wine and Song",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      },
+      {
+        "name": "Mitternachts Waltz",
+        "rarity": 4
+      },
+      {
+        "name": "Alley Hunter",
+        "rarity": 4
+      },
+      {
+        "name": "Rust",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "rarity": 4
+      },
+      {
+        "name": "The Stringless",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna V",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Skirk",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Dahlia",
+        "rarity": 4
+      },
+      {
+        "name": "Candace",
+        "rarity": 4
+      },
+      {
+        "name": "Charlotte",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna V",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Escoffier",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Dahlia",
+        "rarity": 4
+      },
+      {
+        "name": "Candace",
+        "rarity": 4
+      },
+      {
+        "name": "Charlotte",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna V",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Azurelight",
+        "rarity": 5
+      },
+      {
+        "name": "Symphonist of Scents",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      },
+      {
+        "name": "Rust",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna VI",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Linnea",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Illuga",
+        "rarity": 4
+      },
+      {
+        "name": "Aino",
+        "rarity": 4
+      },
+      {
+        "name": "Noelle",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna VI",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Chasca",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Illuga",
+        "rarity": 4
+      },
+      {
+        "name": "Aino",
+        "rarity": 4
+      },
+      {
+        "name": "Noelle",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna VI",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Golden Frostbound Oath",
+        "rarity": 5
+      },
+      {
+        "name": "Astral Vulture's Crimson Plumage",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Flower-Wreathed Feathers",
+        "rarity": 4
+      },
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna VI",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Lauma",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Xingqiu",
+        "rarity": 4
+      },
+      {
+        "name": "Kirara",
+        "rarity": 4
+      },
+      {
+        "name": "Jahoda",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna VI",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Nefer",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Xingqiu",
+        "rarity": 4
+      },
+      {
+        "name": "Kirara",
+        "rarity": 4
+      },
+      {
+        "name": "Jahoda",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna VI",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Nightweaver's Looking Glass",
+        "rarity": 5
+      },
+      {
+        "name": "Reliquary of Truth",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Dawning Frost",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna VI",
+    "phase": 2,
+    "banner_type": "chronicled",
+    "five_star": [
+      {
+        "name": "Emilie",
+        "rarity": 5
+      },
+      {
+        "name": "Clorinde",
+        "rarity": 5
+      },
+      {
+        "name": "Sigewinne",
+        "rarity": 5
+      },
+      {
+        "name": "Navia",
+        "rarity": 5
+      },
+      {
+        "name": "Lyney",
+        "rarity": 5
+      },
+      {
+        "name": "Absolution",
+        "rarity": 5
+      },
+      {
+        "name": "Verdict",
+        "rarity": 5
+      },
+      {
+        "name": "Lumidouce Elegy",
+        "rarity": 5
+      },
+      {
+        "name": "Silvershower Heartstrings",
+        "rarity": 5
+      },
+      {
+        "name": "The First Great Magic",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Chevreuse",
+        "rarity": 4
+      },
+      {
+        "name": "Charlotte",
+        "rarity": 4
+      },
+      {
+        "name": "Freminet",
+        "rarity": 4
+      },
+      {
+        "name": "Lynette",
+        "rarity": 4
+      },
+      {
+        "name": "The Dockhand's Assistant",
+        "rarity": 4
+      },
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      },
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Portable Power Saw",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Prospector's Drill",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      },
+      {
+        "name": "Range Gauge",
+        "rarity": 4
+      },
+      {
+        "name": "Rust",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "rarity": 4
+      },
+      {
+        "name": "The Stringless",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna VII",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Nicole",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Prune",
+        "rarity": 4
+      },
+      {
+        "name": "Razor",
+        "rarity": 4
+      },
+      {
+        "name": "Fischl",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna VII",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Durin",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Prune",
+        "rarity": 4
+      },
+      {
+        "name": "Razor",
+        "rarity": 4
+      },
+      {
+        "name": "Fischl",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna VII",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Angelos' Heptades",
+        "rarity": 5
+      },
+      {
+        "name": "Athame Artis",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Moonweaver's Dawn",
+        "rarity": 4
+      },
+      {
+        "name": "Mitternachts Waltz",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna VII",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Lohen",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Mika",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      },
+      {
+        "name": "Bennett",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna VII",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Mavuika",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Mika",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      },
+      {
+        "name": "Bennett",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna VII",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Disaster and Remorse",
+        "rarity": 5
+      },
+      {
+        "name": "A Thousand Blazing Suns",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "The Alley Flash",
+        "rarity": 4
+      },
+      {
+        "name": "Wine and Song",
+        "rarity": 4
+      },
+      {
+        "name": "Alley Hunter",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna VIII",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Sandrone",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Beidou",
+        "rarity": 4
+      },
+      {
+        "name": "Diona",
+        "rarity": 4
+      },
+      {
+        "name": "Freminet",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna VIII",
+    "phase": 1,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Citlali",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Beidou",
+        "rarity": 4
+      },
+      {
+        "name": "Diona",
+        "rarity": 4
+      },
+      {
+        "name": "Freminet",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna VIII",
+    "phase": 1,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "A Teaspoon of Transcendence",
+        "rarity": 5
+      },
+      {
+        "name": "Starcaller's Watch",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna VIII",
+    "phase": 1,
+    "banner_type": "chronicled",
+    "five_star": [
+      {
+        "name": "Yumemizuki Mizuki",
+        "rarity": 5
+      },
+      {
+        "name": "Wriothesley",
+        "rarity": 5
+      },
+      {
+        "name": "Cyno",
+        "rarity": 5
+      },
+      {
+        "name": "Yae Miko",
+        "rarity": 5
+      },
+      {
+        "name": "Qiqi",
+        "rarity": 5
+      },
+      {
+        "name": "Sunny Morning Sleep-In",
+        "rarity": 5
+      },
+      {
+        "name": "Cashflow Supervision",
+        "rarity": 5
+      },
+      {
+        "name": "Staff of the Scarlet Sands",
+        "rarity": 5
+      },
+      {
+        "name": "Kagura's Verity",
+        "rarity": 5
+      },
+      {
+        "name": "Skyward Blade",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Prune",
+        "rarity": 4
+      },
+      {
+        "name": "Illuga",
+        "rarity": 4
+      },
+      {
+        "name": "Jahoda",
+        "rarity": 4
+      },
+      {
+        "name": "Aino",
+        "rarity": 4
+      },
+      {
+        "name": "Dahlia",
+        "rarity": 4
+      },
+      {
+        "name": "Ifa",
+        "rarity": 4
+      },
+      {
+        "name": "Iansan",
+        "rarity": 4
+      },
+      {
+        "name": "Lan Yan",
+        "rarity": 4
+      },
+      {
+        "name": "Ororon",
+        "rarity": 4
+      },
+      {
+        "name": "Kachina",
+        "rarity": 4
+      },
+      {
+        "name": "Sethos",
+        "rarity": 4
+      },
+      {
+        "name": "Gaming",
+        "rarity": 4
+      },
+      {
+        "name": "Chevreuse",
+        "rarity": 4
+      },
+      {
+        "name": "Charlotte",
+        "rarity": 4
+      },
+      {
+        "name": "Freminet",
+        "rarity": 4
+      },
+      {
+        "name": "Lynette",
+        "rarity": 4
+      },
+      {
+        "name": "Kaveh",
+        "rarity": 4
+      },
+      {
+        "name": "Mika",
+        "rarity": 4
+      },
+      {
+        "name": "Yaoyao",
+        "rarity": 4
+      },
+      {
+        "name": "Faruzan",
+        "rarity": 4
+      },
+      {
+        "name": "Layla",
+        "rarity": 4
+      },
+      {
+        "name": "Candace",
+        "rarity": 4
+      },
+      {
+        "name": "Dori",
+        "rarity": 4
+      },
+      {
+        "name": "Collei",
+        "rarity": 4
+      },
+      {
+        "name": "Kuki Shinobu",
+        "rarity": 4
+      },
+      {
+        "name": "Yun Jin",
+        "rarity": 4
+      },
+      {
+        "name": "Kirara",
+        "rarity": 4
+      },
+      {
+        "name": "Shikanoin Heizou",
+        "rarity": 4
+      },
+      {
+        "name": "Kujou Sara",
+        "rarity": 4
+      },
+      {
+        "name": "Gorou",
+        "rarity": 4
+      },
+      {
+        "name": "Sayu",
+        "rarity": 4
+      },
+      {
+        "name": "Thoma",
+        "rarity": 4
+      },
+      {
+        "name": "Yanfei",
+        "rarity": 4
+      },
+      {
+        "name": "Rosaria",
+        "rarity": 4
+      },
+      {
+        "name": "Xinyan",
+        "rarity": 4
+      },
+      {
+        "name": "Sucrose",
+        "rarity": 4
+      },
+      {
+        "name": "Diona",
+        "rarity": 4
+      },
+      {
+        "name": "Chongyun",
+        "rarity": 4
+      },
+      {
+        "name": "Noelle",
+        "rarity": 4
+      },
+      {
+        "name": "Bennett",
+        "rarity": 4
+      },
+      {
+        "name": "Fischl",
+        "rarity": 4
+      },
+      {
+        "name": "Ningguang",
+        "rarity": 4
+      },
+      {
+        "name": "Xingqiu",
+        "rarity": 4
+      },
+      {
+        "name": "Beidou",
+        "rarity": 4
+      },
+      {
+        "name": "Xiangling",
+        "rarity": 4
+      },
+      {
+        "name": "Amber",
+        "rarity": 4
+      },
+      {
+        "name": "Razor",
+        "rarity": 4
+      },
+      {
+        "name": "Kaeya",
+        "rarity": 4
+      },
+      {
+        "name": "Barbara",
+        "rarity": 4
+      },
+      {
+        "name": "Lisa",
+        "rarity": 4
+      },
+      {
+        "name": "Rust",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Bow",
+        "rarity": 4
+      },
+      {
+        "name": "The Stringless",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      },
+      {
+        "name": "Eye of Perception",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "rarity": 4
+      },
+      {
+        "name": "The Widsith",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Codex",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Dragon's Bane",
+        "rarity": 4
+      },
+      {
+        "name": "Rainslasher",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Greatsword",
+        "rarity": 4
+      },
+      {
+        "name": "Lion's Roar",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      },
+      {
+        "name": "The Flute",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Sword",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna VIII",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Columbina",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Jahoda",
+        "rarity": 4
+      },
+      {
+        "name": "Ororon",
+        "rarity": 4
+      },
+      {
+        "name": "Sethos",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna VIII",
+    "phase": 2,
+    "banner_type": "character",
+    "five_star": [
+      {
+        "name": "Raiden Shogun",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Jahoda",
+        "rarity": 4
+      },
+      {
+        "name": "Ororon",
+        "rarity": 4
+      },
+      {
+        "name": "Sethos",
+        "rarity": 4
+      }
+    ]
+  },
+  {
+    "patch": "Luna VIII",
+    "phase": 2,
+    "banner_type": "weapon",
+    "five_star": [
+      {
+        "name": "Nocturne's Curtain Call",
+        "rarity": 5
+      },
+      {
+        "name": "Engulfing Lightning",
+        "rarity": 5
+      }
+    ],
+    "four_star": [
+      {
+        "name": "Waveriding Whirl",
+        "rarity": 4
+      },
+      {
+        "name": "Sacrificial Sword",
+        "rarity": 4
+      },
+      {
+        "name": "The Bell",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Lance",
+        "rarity": 4
+      },
+      {
+        "name": "Favonius Warbow",
+        "rarity": 4
+      }
+    ]
+  }
+]

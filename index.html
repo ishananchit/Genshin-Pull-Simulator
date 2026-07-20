@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Genshin Pull Simulator</title>
+<link rel="stylesheet" href="style.css?v=4">
+</head>
+<body>
+  <div id="spending-tier-modal" class="modal-overlay">
+    <div class="modal-box">
+      <h2>Choose your spending tier</h2>
+      <p>This determines how many bonus wishes you get each patch from Welkin Moon / Battle Pass.</p>
+      <div class="modal-actions">
+        <button data-tier="f2p">F2P</button>
+        <button data-tier="welkin">Welkin</button>
+        <button data-tier="welkin_bp">Welkin + BP</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="app-shell" class="hidden">
+  <header>
+    <h1>Genshin Pull Simulator</h1>
+    <div id="patch-label"></div>
+  </header>
+
+  <nav id="view-toggles">
+    <button id="toggle-inventory-btn">Inventory</button>
+    <button id="toggle-history-btn">History</button>
+    <button id="toggle-stats-btn">Stats</button>
+  </nav>
+
+  <section id="inventory-panel" class="hidden">
+    <h2>Inventory</h2>
+    <h3>Characters</h3>
+    <div id="inventory-character-list" class="unit-row"></div>
+    <h3>Weapons</h3>
+    <div id="inventory-weapon-list" class="unit-row"></div>
+  </section>
+
+  <section id="history-panel" class="hidden">
+    <h2>History</h2>
+    <div id="history-tabs" class="history-tabs"></div>
+    <div id="history-list" class="history-list"></div>
+  </section>
+
+  <section id="stats-panel" class="hidden">
+    <h2>Wish Statistics</h2>
+    <h3>Character 5★ 50/50</h3>
+    <div id="stats-character-5050"></div>
+    <h3>Weapon 5★ Fate Points</h3>
+    <div id="stats-weapon-fate"></div>
+  </section>
+
+  <section id="counters">
+    <div class="counter">
+      <span class="counter-label">Limited Wishes</span>
+      <span id="limited-count" class="counter-value">0</span>
+    </div>
+    <div class="counter">
+      <span class="counter-label">Standard Wishes</span>
+      <span id="standard-count" class="counter-value">0</span>
+    </div>
+  </section>
+
+  <section id="banners"></section>
+
+  <section id="standard-banner">
+    <div id="standard-roster"></div>
+    <div id="standard-pity" class="pity-readout"></div>
+    <div class="wish-actions">
+      <button id="standard-wish-x1">Wish x1</button>
+      <button id="standard-wish-x10">Wish x10</button>
+    </div>
+    <div id="standard-results" class="pull-results hidden"></div>
+  </section>
+
+  <footer>
+    <label id="confirm-next-patch-label">
+      <input type="checkbox" id="confirm-next-patch-toggle">
+      Confirm before next patch
+    </label>
+    <button id="next-phase-btn">Next Phase &rsaquo;</button>
+    <button id="next-patch-btn">Next Patch &raquo;</button>
+  </footer>
+  </div>
+
+  <script src="app.js?v=4"></script>
+</body>
+</html>
